@@ -538,5 +538,115 @@
     "duration_seconds": 189.05,
     "bytes": 4543506,
     "sha256": "5926d3a0a419e4b9c84f61bc5708161313f64b01be7ff49142107548c112f74b"
+  },
+  {
+    "id": "9Fle2CP8gR0",
+    "category": "union",
+    "title": "Debussy - Arabesque No.1 and No.2",
+    "source_url": "https://www.youtube.com/watch?v=9Fle2CP8gR0",
+    "path": "music/union/9Fle2CP8gR0.mp3",
+    "duration_seconds": 469.66,
+    "bytes": 11284816,
+    "sha256": "8e8f1e8d58f4af7f501e3b6b0016d42c19a1c9016518b768e11c307adef8ff60"
+  },
+  {
+    "id": "WKU8DJzipW4",
+    "category": "union",
+    "title": "Clair De Lune",
+    "source_url": "https://www.youtube.com/watch?v=WKU8DJzipW4",
+    "path": "music/union/WKU8DJzipW4.mp3",
+    "duration_seconds": 248.01,
+    "bytes": 5959926,
+    "sha256": "570830ad55c2b979eb1bf0e18181b93ad6efbec95d0cb61866a9afc2be3f0a66"
+  },
+  {
+    "id": "KpOtuoHL45Y",
+    "category": "union",
+    "title": "Franz Liszt - Liebestraum - Love Dream",
+    "source_url": "https://www.youtube.com/watch?v=KpOtuoHL45Y",
+    "path": "music/union/KpOtuoHL45Y.mp3",
+    "duration_seconds": 350.2,
+    "bytes": 8414963,
+    "sha256": "c20bd3b7867440ca316ee3a19d5a4c8ba0764fed63809f7379808abb9a7f3ac4"
+  },
+  {
+    "id": "9AuzJ2GBCGw",
+    "category": "union",
+    "title": "Debussy: Rêverie",
+    "source_url": "https://www.youtube.com/watch?v=9AuzJ2GBCGw",
+    "path": "music/union/9AuzJ2GBCGw.mp3",
+    "duration_seconds": 334.92,
+    "bytes": 8047845,
+    "sha256": "44220fa6583ef0ab4040e50da23f032d7982e416069e141f16f54119424b629f"
+  },
+  {
+    "id": "TOxJpPiFe0k",
+    "category": "union",
+    "title": "Claude Debussy: The Girl with the Flaxen Hair",
+    "source_url": "https://www.youtube.com/watch?v=TOxJpPiFe0k",
+    "path": "music/union/TOxJpPiFe0k.mp3",
+    "duration_seconds": 138.21,
+    "bytes": 3322274,
+    "sha256": "4180bb9053f35f2d4ec68014222f4bef7f38650d60723af1e9be248af91c6d1a"
+  },
+  {
+    "id": "rUuusqy50yk",
+    "category": "union",
+    "title": "Tchaikovsky - Valse Sentimentale",
+    "source_url": "https://www.youtube.com/watch?v=rUuusqy50yk",
+    "path": "music/union/rUuusqy50yk.mp3",
+    "duration_seconds": 285.18,
+    "bytes": 6852945,
+    "sha256": "1f91f537bc1f49fdc4c846576e370ce5c59d5ee27270b1f7f548fde793a090e6"
+  },
+  {
+    "id": "PXis0PtqdXw",
+    "category": "union",
+    "title": "Schubert - Serenade",
+    "source_url": "https://www.youtube.com/watch?v=PXis0PtqdXw",
+    "path": "music/union/PXis0PtqdXw.mp3",
+    "duration_seconds": 276.43,
+    "bytes": 6642698,
+    "sha256": "6484acd4250f067ba047a54619aed58b11a391fe6f5f8a9ad28026d9e648b114"
+  },
+  {
+    "id": "I6Njg1LFxFk",
+    "category": "union",
+    "title": "Schubert - \"Ständchen\" D957",
+    "source_url": "https://www.youtube.com/watch?v=I6Njg1LFxFk",
+    "path": "music/union/I6Njg1LFxFk.mp3",
+    "duration_seconds": 233.17,
+    "bytes": 5603458,
+    "sha256": "c9d288b7c104cbef0f17dc9417ef783cb038d80eef8fc6a344e6f84d35dce57d"
+  },
+  {
+    "id": "Huy791G17Ak",
+    "category": "union",
+    "title": "Serenata D.957 - Schubert",
+    "source_url": "https://www.youtube.com/watch?v=Huy791G17Ak",
+    "path": "music/union/Huy791G17Ak.mp3",
+    "duration_seconds": 250.91,
+    "bytes": 6029612,
+    "sha256": "1431dc49162bdf3d2531ec50aff54b89beb77cfa7777147e70428c9379f21efc"
+  },
+  {
+    "id": "PKUPBr0eY6Y",
+    "category": "union",
+    "title": "Franz Schubert - Marche Militaire",
+    "source_url": "https://www.youtube.com/watch?v=PKUPBr0eY6Y",
+    "path": "music/union/PKUPBr0eY6Y.mp3",
+    "duration_seconds": 330.16,
+    "bytes": 7933615,
+    "sha256": "23c295be1c8f3ae88a99d76f91b029e4ddad38672d5ddcd5e4c932db92c9b087"
+  },
+  {
+    "id": "JouWDv9dC0g",
+    "category": "union",
+    "title": "One State Anthem (Red Flood/WE)",
+    "source_url": "https://www.youtube.com/watch?v=JouWDv9dC0g",
+    "path": "music/union/JouWDv9dC0g.mp3",
+    "duration_seconds": 83.93,
+    "bytes": 2018179,
+    "sha256": "967821d4ed9508ed8c5b2e9096d571d4f416395b6633a0af2642eabef9f7c7d9"
   }
 ]

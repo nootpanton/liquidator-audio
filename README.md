@@ -2,7 +2,7 @@
 
 Private audio storage for the Liquidator RP server.
 
-54 MP3 tracks; 192 kbps, 44.1 kHz, stereo. Source links and SHA-256 hashes are in `catalog.json`.
+65 MP3 tracks; 192 kbps, 44.1 kHz, stereo. Source links and SHA-256 hashes are in `catalog.json`.
 
 This repository requires GitHub authentication. Repository URLs are not public playback URLs. Never distribute GitHub credentials to game clients.
 
@@ -13,6 +13,7 @@ This repository requires GitHub authentication. Repository URLs are not public p
 | [forgotten](music/forgotten) | 4 |
 | [oldpop](music/oldpop) | 8 |
 | [doomer](music/doomer) | 19 |
+| [Union](music/union) | 11 |
 
 ## Tracks
 
@@ -72,3 +73,14 @@ This repository requires GitHub authentication. Repository URLs are not public p
 | doomer | billy idol - eyes without a face (slowed & reverb) | [a6u00EcpNcs](music/doomer/a6u00EcpNcs.mp3) |
 | doomer | Silent Hill 2 OST - Prisonic Fairytale (Slowed + Reverb) | [e1H5373Pmm8](music/doomer/e1H5373Pmm8.mp3) |
 | doomer | Тоска | [1Gw3ZbXcF00](music/doomer/1Gw3ZbXcF00.mp3) |
+| union | Debussy - Arabesque No.1 and No.2 | [9Fle2CP8gR0](music/union/9Fle2CP8gR0.mp3) |
+| union | Clair De Lune | [WKU8DJzipW4](music/union/WKU8DJzipW4.mp3) |
+| union | Franz Liszt - Liebestraum - Love Dream | [KpOtuoHL45Y](music/union/KpOtuoHL45Y.mp3) |
+| union | Debussy: Rêverie | [9AuzJ2GBCGw](music/union/9AuzJ2GBCGw.mp3) |
+| union | Claude Debussy: The Girl with the Flaxen Hair | [TOxJpPiFe0k](music/union/TOxJpPiFe0k.mp3) |
+| union | Tchaikovsky - Valse Sentimentale | [rUuusqy50yk](music/union/rUuusqy50yk.mp3) |
+| union | Schubert - Serenade | [PXis0PtqdXw](music/union/PXis0PtqdXw.mp3) |
+| union | Schubert - "Ständchen" D957 | [I6Njg1LFxFk](music/union/I6Njg1LFxFk.mp3) |
+| union | Serenata D.957 - Schubert | [Huy791G17Ak](music/union/Huy791G17Ak.mp3) |
+| union | Franz Schubert - Marche Militaire | [PKUPBr0eY6Y](music/union/PKUPBr0eY6Y.mp3) |
+| union | One State Anthem (Red Flood/WE) | [JouWDv9dC0g](music/union/JouWDv9dC0g.mp3) |
