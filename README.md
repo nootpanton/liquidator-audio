@@ -2,7 +2,7 @@
 
 Private audio storage for the Liquidator RP server.
 
-66 MP3 tracks; 192 kbps, 44.1 kHz, stereo. Source links and SHA-256 hashes are in `catalog.json`.
+71 MP3 tracks; 192 kbps, 44.1 kHz, stereo. Source links and SHA-256 hashes are in `catalog.json`.
 
 This repository requires GitHub authentication. Repository URLs are not public playback URLs. Never distribute GitHub credentials to game clients.
 
@@ -13,7 +13,7 @@ This repository requires GitHub authentication. Repository URLs are not public p
 | [forgotten](music/forgotten) | 4 |
 | [oldpop](music/oldpop) | 8 |
 | [doomer](music/doomer) | 19 |
-| [Union](music/union) | 12 |
+| [Union](music/union) | 17 |
 
 ## Tracks
 
@@ -85,3 +85,8 @@ This repository requires GitHub authentication. Repository URLs are not public p
 | union | Franz Schubert - Marche Militaire | [PKUPBr0eY6Y](music/union/PKUPBr0eY6Y.mp3) |
 | union | One State Anthem (Red Flood/WE) | [JouWDv9dC0g](music/union/JouWDv9dC0g.mp3) |
 | union | J.S. Bach: Orchestral Suite No. 3 in D Major, BWV 1068: II. Air "on the G String" | [0WKrO4w3QuQ](music/union/0WKrO4w3QuQ.mp3) |
+| union | Toshifumi Hinata-Reflections | [MJenceQ9IEw](music/union/MJenceQ9IEw.mp3) |
+| union | Erik Satie - Gnossienne No.1 | [PLFVGwGQcB0](music/union/PLFVGwGQcB0.mp3) |
+| union | Erik Satie - Gymnopédie No.1 | [S-Xm7s9eGxU](music/union/S-Xm7s9eGxU.mp3) |
+| union | Chopin - Nocturne op.9 No.2 | [9E6b3swbnWg](music/union/9E6b3swbnWg.mp3) |
+| union | Valse | [yT9OSzXJG0A](music/union/yT9OSzXJG0A.mp3) |

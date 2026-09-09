@@ -658,5 +658,55 @@
     "duration_seconds": 360.54,
     "bytes": 8663613,
     "sha256": "24c6ad951a6154a37ea6a97675740bdb0f548a2514f78b58260cfcc40de9ac6d"
+  },
+  {
+    "id": "MJenceQ9IEw",
+    "category": "union",
+    "title": "Toshifumi Hinata-Reflections",
+    "source_url": "https://www.youtube.com/watch?v=MJenceQ9IEw",
+    "path": "music/union/MJenceQ9IEw.mp3",
+    "duration_seconds": 132.18,
+    "bytes": 3177289,
+    "sha256": "b1cc5857a2ebf8f41644b3ec680d78aa5ac88dd420d38e17fb78e7c552206897"
+  },
+  {
+    "id": "PLFVGwGQcB0",
+    "category": "union",
+    "title": "Erik Satie - Gnossienne No.1",
+    "source_url": "https://www.youtube.com/watch?v=PLFVGwGQcB0",
+    "path": "music/union/PLFVGwGQcB0.mp3",
+    "duration_seconds": 204.3,
+    "bytes": 4909998,
+    "sha256": "3b7051e89e00ab992ffa2431cd86ac66761bbedc02fed8ca4ac3c44d5bb3df34"
+  },
+  {
+    "id": "S-Xm7s9eGxU",
+    "category": "union",
+    "title": "Erik Satie - Gymnopédie No.1",
+    "source_url": "https://www.youtube.com/watch?v=S-Xm7s9eGxU",
+    "path": "music/union/S-Xm7s9eGxU.mp3",
+    "duration_seconds": 216.92,
+    "bytes": 5213113,
+    "sha256": "5b8337ccc878a734e993b4a580927dbbed7e909bf091091f167ff1fab923107b"
+  },
+  {
+    "id": "9E6b3swbnWg",
+    "category": "union",
+    "title": "Chopin - Nocturne op.9 No.2",
+    "source_url": "https://www.youtube.com/watch?v=9E6b3swbnWg",
+    "path": "music/union/9E6b3swbnWg.mp3",
+    "duration_seconds": 269.32,
+    "bytes": 6472008,
+    "sha256": "e9daf2625a31f3479fb00d1767966bee626d8e73d20d363faa9d1bc43f989e24"
+  },
+  {
+    "id": "yT9OSzXJG0A",
+    "category": "union",
+    "title": "Valse",
+    "source_url": "https://www.youtube.com/watch?v=yT9OSzXJG0A",
+    "path": "music/union/yT9OSzXJG0A.mp3",
+    "duration_seconds": 206.03,
+    "bytes": 4951420,
+    "sha256": "f75cdec4592d0209bdf65e2acf86535682a5967c672e8f4a16ffd08e04cd95eb"
   }
 ]
