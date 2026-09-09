@@ -2,7 +2,7 @@
 
 Private audio storage for the Liquidator RP server.
 
-65 MP3 tracks; 192 kbps, 44.1 kHz, stereo. Source links and SHA-256 hashes are in `catalog.json`.
+66 MP3 tracks; 192 kbps, 44.1 kHz, stereo. Source links and SHA-256 hashes are in `catalog.json`.
 
 This repository requires GitHub authentication. Repository URLs are not public playback URLs. Never distribute GitHub credentials to game clients.
 
@@ -13,7 +13,7 @@ This repository requires GitHub authentication. Repository URLs are not public p
 | [forgotten](music/forgotten) | 4 |
 | [oldpop](music/oldpop) | 8 |
 | [doomer](music/doomer) | 19 |
-| [Union](music/union) | 11 |
+| [Union](music/union) | 12 |
 
 ## Tracks
 
@@ -84,3 +84,4 @@ This repository requires GitHub authentication. Repository URLs are not public p
 | union | Serenata D.957 - Schubert | [Huy791G17Ak](music/union/Huy791G17Ak.mp3) |
 | union | Franz Schubert - Marche Militaire | [PKUPBr0eY6Y](music/union/PKUPBr0eY6Y.mp3) |
 | union | One State Anthem (Red Flood/WE) | [JouWDv9dC0g](music/union/JouWDv9dC0g.mp3) |
+| union | J.S. Bach: Orchestral Suite No. 3 in D Major, BWV 1068: II. Air "on the G String" | [0WKrO4w3QuQ](music/union/0WKrO4w3QuQ.mp3) |
