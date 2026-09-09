@@ -1,0 +1,542 @@
+[
+  {
+    "id": "cxSzri346W0",
+    "category": "tim_maia",
+    "title": "Gostava Tanto De Você",
+    "source_url": "https://www.youtube.com/watch?v=cxSzri346W0",
+    "path": "music/tim_maia/cxSzri346W0.mp3",
+    "duration_seconds": 256.39,
+    "bytes": 6161362,
+    "sha256": "2ede47842d5e6d3465a4a260d9fee66f48e8d360a006bb28c2be6a8374073972"
+  },
+  {
+    "id": "tPp9zkjfj7Q",
+    "category": "tim_maia",
+    "title": "Acenda o farol",
+    "source_url": "https://www.youtube.com/watch?v=tPp9zkjfj7Q",
+    "path": "music/tim_maia/tPp9zkjfj7Q.mp3",
+    "duration_seconds": 191.32,
+    "bytes": 4598087,
+    "sha256": "0c443e3606b62e8344d03a7314efd638ff702cf723eb616325490d084515a76c"
+  },
+  {
+    "id": "PAUlCK8kuGU",
+    "category": "tim_maia",
+    "title": "O Descobridor Dos Sete Mares",
+    "source_url": "https://www.youtube.com/watch?v=PAUlCK8kuGU",
+    "path": "music/tim_maia/PAUlCK8kuGU.mp3",
+    "duration_seconds": 265.33,
+    "bytes": 6375995,
+    "sha256": "efbc1dd106731978ade619f2377e1b6d0aa298f4b50b126ff999b51786f7ea2b"
+  },
+  {
+    "id": "qBBwXuEV4jA",
+    "category": "tim_maia",
+    "title": "Eu Amo Você",
+    "source_url": "https://www.youtube.com/watch?v=qBBwXuEV4jA",
+    "path": "music/tim_maia/qBBwXuEV4jA.mp3",
+    "duration_seconds": 243.23,
+    "bytes": 5845058,
+    "sha256": "aaaea3daec2987d117260bfb2381c626952371693b05480101b85065ade63a60"
+  },
+  {
+    "id": "p7RCHfW2OOY",
+    "category": "tim_maia",
+    "title": "Réu Confesso",
+    "source_url": "https://www.youtube.com/watch?v=p7RCHfW2OOY",
+    "path": "music/tim_maia/p7RCHfW2OOY.mp3",
+    "duration_seconds": 217.65,
+    "bytes": 5230672,
+    "sha256": "723aa67c1ff211d85980303a6b2f3b2f4a147d57e93c7639a1d9dfb11114d35a"
+  },
+  {
+    "id": "A9kTV-wpiWk",
+    "category": "tim_maia",
+    "title": "Azul Da Cor Do Mar",
+    "source_url": "https://www.youtube.com/watch?v=A9kTV-wpiWk",
+    "path": "music/tim_maia/A9kTV-wpiWk.mp3",
+    "duration_seconds": 198.3,
+    "bytes": 4765651,
+    "sha256": "8e7c814b078f7e1cb321363d9df95c3d721ca11abaff39048f8fbdefed419af5"
+  },
+  {
+    "id": "ZkLWfSLRsNQ",
+    "category": "tim_maia",
+    "title": "Não Vá",
+    "source_url": "https://www.youtube.com/watch?v=ZkLWfSLRsNQ",
+    "path": "music/tim_maia/ZkLWfSLRsNQ.mp3",
+    "duration_seconds": 307.07,
+    "bytes": 7378825,
+    "sha256": "83b372fd648a235ff8bd352d3d6f68822604c0f053b88686c22a7d644bcb8a77"
+  },
+  {
+    "id": "E4rrbVgsthc",
+    "category": "tim_maia",
+    "title": "Bons Momentos",
+    "source_url": "https://www.youtube.com/watch?v=E4rrbVgsthc",
+    "path": "music/tim_maia/E4rrbVgsthc.mp3",
+    "duration_seconds": 292.36,
+    "bytes": 7025510,
+    "sha256": "da6dca70412ccccce9c757239ce73c5cecd4dce631ca3e791fcb2d23cd0900b6"
+  },
+  {
+    "id": "u2BBkCr58oI",
+    "category": "tim_maia",
+    "title": "Se eu lembro faz doer",
+    "source_url": "https://www.youtube.com/watch?v=u2BBkCr58oI",
+    "path": "music/tim_maia/u2BBkCr58oI.mp3",
+    "duration_seconds": 230.74,
+    "bytes": 5545091,
+    "sha256": "02fc462867b675e5e2050c696a250e5a8c95d4f9ea6b47e7b084708cb24d1145"
+  },
+  {
+    "id": "9Q8va-qsE4c",
+    "category": "tim_maia",
+    "title": "Do Leme ao Pontal",
+    "source_url": "https://www.youtube.com/watch?v=9Q8va-qsE4c",
+    "path": "music/tim_maia/9Q8va-qsE4c.mp3",
+    "duration_seconds": 249.44,
+    "bytes": 5994424,
+    "sha256": "b0a3493aa753858832fdefd195d75c8ae063f922ecd9b90ecbc1c082aac9fca8"
+  },
+  {
+    "id": "4X7ZvpwBiKA",
+    "category": "city_pop",
+    "title": "Yasuha - Flyday Chinatown",
+    "source_url": "https://www.youtube.com/watch?v=4X7ZvpwBiKA",
+    "path": "music/city_pop/4X7ZvpwBiKA.mp3",
+    "duration_seconds": 209.14,
+    "bytes": 5026097,
+    "sha256": "b365dc2128ce736c9d70b84fe6044a9dde44d3ad92a591fb9c881bf44b70d7ee"
+  },
+  {
+    "id": "Rrcs9AoXutw",
+    "category": "city_pop",
+    "title": "杏里 Anri - Good Bye Boogie Dance",
+    "source_url": "https://www.youtube.com/watch?v=Rrcs9AoXutw",
+    "path": "music/city_pop/Rrcs9AoXutw.mp3",
+    "duration_seconds": 272.56,
+    "bytes": 6549838,
+    "sha256": "f58e27b277e41fe17838da12b962fe47381936b957530701f22b07f4c1602e73"
+  },
+  {
+    "id": "pE2D3LWADFg",
+    "category": "city_pop",
+    "title": "Tomoko Aran - I'm In Love [Warner Bros. Records] 1983",
+    "source_url": "https://www.youtube.com/watch?v=pE2D3LWADFg",
+    "path": "music/city_pop/pE2D3LWADFg.mp3",
+    "duration_seconds": 355.06,
+    "bytes": 8531708,
+    "sha256": "f3609caf33381b8c08346072b8430c57e45267be9fc7ea6ead37f7be7e0b86fb"
+  },
+  {
+    "id": "KZyS-ms6-RA",
+    "category": "city_pop",
+    "title": "Tomoko Aran - Midnight Pretenders (subtitled)",
+    "source_url": "https://www.youtube.com/watch?v=KZyS-ms6-RA",
+    "path": "music/city_pop/KZyS-ms6-RA.mp3",
+    "duration_seconds": 340.9,
+    "bytes": 8191560,
+    "sha256": "fc1970977e3d2070aa83a8d668a733adc6471e541bfed18163312bb046f3cd29"
+  },
+  {
+    "id": "aQGvlemqUpE",
+    "category": "city_pop",
+    "title": "黄昏のBay City",
+    "source_url": "https://www.youtube.com/watch?v=aQGvlemqUpE",
+    "path": "music/city_pop/aQGvlemqUpE.mp3",
+    "duration_seconds": 250.31,
+    "bytes": 6015133,
+    "sha256": "6d32db83281bc0e4f5d598e5bc890b16666acd73294186d9a1623535e24c1418"
+  },
+  {
+    "id": "XJWqHmY-g9U",
+    "category": "city_pop",
+    "title": "Junko Ohashi (大橋純子) - Telephone Number",
+    "source_url": "https://www.youtube.com/watch?v=XJWqHmY-g9U",
+    "path": "music/city_pop/XJWqHmY-g9U.mp3",
+    "duration_seconds": 239.12,
+    "bytes": 5746564,
+    "sha256": "281ae82f917fd72a8f128b05ecf2c4f214e9efa3cc58a8c353bfd460c9557633"
+  },
+  {
+    "id": "Q2QUngVGxmE",
+    "category": "city_pop",
+    "title": "Junko Ohashi - I Love You So",
+    "source_url": "https://www.youtube.com/watch?v=Q2QUngVGxmE",
+    "path": "music/city_pop/Q2QUngVGxmE.mp3",
+    "duration_seconds": 285.05,
+    "bytes": 6849806,
+    "sha256": "18ffc679d4119ee3a585fd2053fc4e991ab4b84592fe55302a40325275ee17cc"
+  },
+  {
+    "id": "lags8E4hvow",
+    "category": "city_pop",
+    "title": "【松原みき】Miki Matsubara 'Mayonaka no Door -stay with me'(Music Video) Director's Cut 2022 by TELL SATO",
+    "source_url": "https://www.youtube.com/watch?v=lags8E4hvow",
+    "path": "music/city_pop/lags8E4hvow.mp3",
+    "duration_seconds": 276.32,
+    "bytes": 6640283,
+    "sha256": "5b58e66360ba80d12b61b22cca0ec870bfd30c8bd69df9437c2c570746a64282"
+  },
+  {
+    "id": "AIpZ92U_BTE",
+    "category": "city_pop",
+    "title": "Anri - Driving My Love",
+    "source_url": "https://www.youtube.com/watch?v=AIpZ92U_BTE",
+    "path": "music/city_pop/AIpZ92U_BTE.mp3",
+    "duration_seconds": 291.58,
+    "bytes": 7006692,
+    "sha256": "fcbb2a134d00056445f849a0498645aab69249cfd39e3e108acafa9d67642ef4"
+  },
+  {
+    "id": "lHxvQ1wKCuA",
+    "category": "city_pop",
+    "title": "Toshiki Kadomatsu - If you...",
+    "source_url": "https://www.youtube.com/watch?v=lHxvQ1wKCuA",
+    "path": "music/city_pop/lHxvQ1wKCuA.mp3",
+    "duration_seconds": 285.1,
+    "bytes": 6851063,
+    "sha256": "b78e7ff8d254fee3b15c41496a3f69830b4bdcd73b2a1fe4edb9710b2fbfd800"
+  },
+  {
+    "id": "fLxQtcrzTlA",
+    "category": "city_pop",
+    "title": "Airport Lady - Toshiki Kadomatsu (1984)",
+    "source_url": "https://www.youtube.com/watch?v=fLxQtcrzTlA",
+    "path": "music/city_pop/fLxQtcrzTlA.mp3",
+    "duration_seconds": 269.01,
+    "bytes": 6464492,
+    "sha256": "3f6599834f937aab5f9a332459f3026e1c79f1b277725d2ed4a0745a1084f1e7"
+  },
+  {
+    "id": "A-8fdRq2W9w",
+    "category": "city_pop",
+    "title": "F・L・Y (1991 Mix)",
+    "source_url": "https://www.youtube.com/watch?v=A-8fdRq2W9w",
+    "path": "music/city_pop/A-8fdRq2W9w.mp3",
+    "duration_seconds": 307.2,
+    "bytes": 7381995,
+    "sha256": "ff81c4190f4cb303f64e95ff9e94e7c5a88c00d1e78d231fdebd82ab1652bcb3"
+  },
+  {
+    "id": "M1F5_UzwiY4",
+    "category": "city_pop",
+    "title": "BREEZIN'",
+    "source_url": "https://www.youtube.com/watch?v=M1F5_UzwiY4",
+    "path": "music/city_pop/M1F5_UzwiY4.mp3",
+    "duration_seconds": 350.04,
+    "bytes": 8411200,
+    "sha256": "a8872f01f51c2c7d0aa7c5b6373f653dd12fb45988bf7f39b3bac4ec0a3884bd"
+  },
+  {
+    "id": "lAKIbre6neM",
+    "category": "forgotten",
+    "title": "Fear & Hunger OST - Eastern Wind",
+    "source_url": "https://www.youtube.com/watch?v=lAKIbre6neM",
+    "path": "music/forgotten/lAKIbre6neM.mp3",
+    "duration_seconds": 144.35,
+    "bytes": 3469743,
+    "sha256": "d84a5b4eeef2a93600750642cf843ed896ca0eaf7281ec214074e1d392fcc4a1"
+  },
+  {
+    "id": "BbTSKh_ANPU",
+    "category": "forgotten",
+    "title": "Untitled 2",
+    "source_url": "https://www.youtube.com/watch?v=BbTSKh_ANPU",
+    "path": "music/forgotten/BbTSKh_ANPU.mp3",
+    "duration_seconds": 345.68,
+    "bytes": 8306398,
+    "sha256": "29ba8ac39bd45c9753f17d92407202f911d24834f642ee212c6474027d6c75c1"
+  },
+  {
+    "id": "-CER-ZoeCGg",
+    "category": "forgotten",
+    "title": "I'm afraid",
+    "source_url": "https://www.youtube.com/watch?v=-CER-ZoeCGg",
+    "path": "music/forgotten/-CER-ZoeCGg.mp3",
+    "duration_seconds": 163.66,
+    "bytes": 3933492,
+    "sha256": "bca01b0b79a00527c6b3308e664f88b57b191572284abd9e7de5d9d701c609dc"
+  },
+  {
+    "id": "OFSCZgG_Aw0",
+    "category": "forgotten",
+    "title": "Septembar - Ostavi trag - (Audio 1976) HD",
+    "source_url": "https://www.youtube.com/watch?v=OFSCZgG_Aw0",
+    "path": "music/forgotten/OFSCZgG_Aw0.mp3",
+    "duration_seconds": 243.2,
+    "bytes": 5844461,
+    "sha256": "52d1acd96eaf8f7aa65e68ded954b7e87a65daa865114a607920270dcb262f04"
+  },
+  {
+    "id": "qmbx4_TQbkA",
+    "category": "oldpop",
+    "title": "Gipsy Kings - Volare (Official Video)",
+    "source_url": "https://www.youtube.com/watch?v=qmbx4_TQbkA",
+    "path": "music/oldpop/qmbx4_TQbkA.mp3",
+    "duration_seconds": 221.13,
+    "bytes": 5314160,
+    "sha256": "fa139b18bebcf668f39175106ea3259ddb91c2f479bc94a685de8731e9681ff5"
+  },
+  {
+    "id": "PVru62O-qhc",
+    "category": "oldpop",
+    "title": "Shakatak With Al Jarreau - Day By Day  (November 1985)",
+    "source_url": "https://www.youtube.com/watch?v=PVru62O-qhc",
+    "path": "music/oldpop/PVru62O-qhc.mp3",
+    "duration_seconds": 253.81,
+    "bytes": 6099263,
+    "sha256": "1ef28cb0933a3da11e58a9a3edcd87e4ac16704ca704e7b24ca8b5bea7738084"
+  },
+  {
+    "id": "n9DmdAwUbxc",
+    "category": "oldpop",
+    "title": "What You Won't Do for Love",
+    "source_url": "https://www.youtube.com/watch?v=n9DmdAwUbxc",
+    "path": "music/oldpop/n9DmdAwUbxc.mp3",
+    "duration_seconds": 286.54,
+    "bytes": 6885625,
+    "sha256": "6e9a59aaebaf47520a4e500c066dad925bba105582c8d53fe03eececbd467c2a"
+  },
+  {
+    "id": "vRBu_RLBt1A",
+    "category": "oldpop",
+    "title": "Predador de Perereca (1982)",
+    "source_url": "https://www.youtube.com/watch?v=vRBu_RLBt1A",
+    "path": "music/oldpop/vRBu_RLBt1A.mp3",
+    "duration_seconds": 186.75,
+    "bytes": 4488274,
+    "sha256": "4078f1f0efd94eae5ff185c1586fbce0359c46c900d258f2f628f80e0e1b7e02"
+  },
+  {
+    "id": "ltjio4AM2uw",
+    "category": "oldpop",
+    "title": "Let's Groove",
+    "source_url": "https://www.youtube.com/watch?v=ltjio4AM2uw",
+    "path": "music/oldpop/ltjio4AM2uw.mp3",
+    "duration_seconds": 339.36,
+    "bytes": 8154530,
+    "sha256": "ae7a4544e9831a4518a071d846e3ec6144e1a48c66d068c0622b695cdecedaf6"
+  },
+  {
+    "id": "mUb9PM8tSRQ",
+    "category": "oldpop",
+    "title": "Roça Roça (1983)",
+    "source_url": "https://www.youtube.com/watch?v=mUb9PM8tSRQ",
+    "path": "music/oldpop/mUb9PM8tSRQ.mp3",
+    "duration_seconds": 172.67,
+    "bytes": 4150007,
+    "sha256": "d7ec53e80cc92c2b6ccd0aeeb5b7bc1037eee908ec32c2764717464dac1a477d"
+  },
+  {
+    "id": "BwGZKIx5FN8",
+    "category": "oldpop",
+    "title": "Amiga da Minha Mulher",
+    "source_url": "https://www.youtube.com/watch?v=BwGZKIx5FN8",
+    "path": "music/oldpop/BwGZKIx5FN8.mp3",
+    "duration_seconds": 248.11,
+    "bytes": 5962485,
+    "sha256": "509d6e8b338fb21d66e07e402501136d5b981335d0ca19b22820593d780037af"
+  },
+  {
+    "id": "9tAgBu6xd6E",
+    "category": "oldpop",
+    "title": "Popotão Grandão (1982)",
+    "source_url": "https://www.youtube.com/watch?v=9tAgBu6xd6E",
+    "path": "music/oldpop/9tAgBu6xd6E.mp3",
+    "duration_seconds": 182.2,
+    "bytes": 4379075,
+    "sha256": "d2e2c374a99fda42351f085c79ad40e4591de84a4ef998a9e7f56f8f823b32f4"
+  },
+  {
+    "id": "o7g-XBV8CAE",
+    "category": "doomer",
+    "title": "Mr.Kitty - After Dark (Doomer Wave)",
+    "source_url": "https://www.youtube.com/watch?v=o7g-XBV8CAE",
+    "path": "music/doomer/o7g-XBV8CAE.mp3",
+    "duration_seconds": 292.05,
+    "bytes": 7017999,
+    "sha256": "d4c0eedcc47052e2c5d93f926c36e0cba048944d0d16ddefffac795fd1893247"
+  },
+  {
+    "id": "UQ_LeKjcEFE",
+    "category": "doomer",
+    "title": "HOME - Resonance  Ｄｏｏｍｅｒ Ｗａｖｅ 破滅",
+    "source_url": "https://www.youtube.com/watch?v=UQ_LeKjcEFE",
+    "path": "music/doomer/UQ_LeKjcEFE.mp3",
+    "duration_seconds": 333.22,
+    "bytes": 8007064,
+    "sha256": "a34dcc9ac9f9c74195d1b87bff94f40fba5d7cd8bb08171e42e4d3c367355fb1"
+  },
+  {
+    "id": "n1B6cs8WuIw",
+    "category": "doomer",
+    "title": "The Walters - I Love You So (Doomer Wave)",
+    "source_url": "https://www.youtube.com/watch?v=n1B6cs8WuIw",
+    "path": "music/doomer/n1B6cs8WuIw.mp3",
+    "duration_seconds": 183.59,
+    "bytes": 4412352,
+    "sha256": "e87ce1eb719a35f4946485392f88b4a236c3bdbeee6861bf11b56e9093febc28"
+  },
+  {
+    "id": "65C68DnQfMc",
+    "category": "doomer",
+    "title": "somebody that i used to know - Ｄｏｏｍｅｒ Ｗａｖｅ",
+    "source_url": "https://www.youtube.com/watch?v=65C68DnQfMc",
+    "path": "music/doomer/65C68DnQfMc.mp3",
+    "duration_seconds": 288.63,
+    "bytes": 6935815,
+    "sha256": "97b3b4948b0739caafbb353db0b0b8359c8a76aa592fc0b10d47555664a6caba"
+  },
+  {
+    "id": "mFrp7hhgxdc",
+    "category": "doomer",
+    "title": "Mr.Kitty - Dream Diver (Doomer Wave)",
+    "source_url": "https://www.youtube.com/watch?v=mFrp7hhgxdc",
+    "path": "music/doomer/mFrp7hhgxdc.mp3",
+    "duration_seconds": 313.73,
+    "bytes": 7538880,
+    "sha256": "f36a2f2e666dafa705e399500b5ceb38bd0b5b87eca6837421d5c2229cb8aded"
+  },
+  {
+    "id": "65_rrjVV68k",
+    "category": "doomer",
+    "title": "Где Фантом? - Стихи (Doomer version)",
+    "source_url": "https://www.youtube.com/watch?v=65_rrjVV68k",
+    "path": "music/doomer/65_rrjVV68k.mp3",
+    "duration_seconds": 164.73,
+    "bytes": 3959259,
+    "sha256": "21260d20ff317ce41031b48a9f40d7492b36828d8eecc2cc42336178cf4d8335"
+  },
+  {
+    "id": "dckyHSxXl24",
+    "category": "doomer",
+    "title": "Surf Curse - Freaks (Doomer)",
+    "source_url": "https://www.youtube.com/watch?v=dckyHSxXl24",
+    "path": "music/doomer/dckyHSxXl24.mp3",
+    "duration_seconds": 163.84,
+    "bytes": 3937900,
+    "sha256": "c810891dd1db9981142a0c4c483fc3bedeb7aacbc5185182358da5e90b9c5b57"
+  },
+  {
+    "id": "LlN8MPS7KQs",
+    "category": "doomer",
+    "title": "øneheart x reidenshi - snowfall",
+    "source_url": "https://www.youtube.com/watch?v=LlN8MPS7KQs",
+    "path": "music/doomer/LlN8MPS7KQs.mp3",
+    "duration_seconds": 123.27,
+    "bytes": 2963295,
+    "sha256": "057afab1e6b4a97740a25c1f53b824717fc06cbc27c450e4faeb1f9eb8060d9d"
+  },
+  {
+    "id": "Y-Qu_Fk23T4",
+    "category": "doomer",
+    "title": "Hotline Miami 2: Wrong Number Soundtrack - The Green Kingdom - 02 Untitled",
+    "source_url": "https://www.youtube.com/watch?v=Y-Qu_Fk23T4",
+    "path": "music/doomer/Y-Qu_Fk23T4.mp3",
+    "duration_seconds": 400.04,
+    "bytes": 9612395,
+    "sha256": "b7797705f69f0d24b025785074660a57ed00a33c8f4b9dcf2ea8e6994e08cc91"
+  },
+  {
+    "id": "oZjTGFeBXAY",
+    "category": "doomer",
+    "title": "Hotline Miami 2: Wrong Number Soundtrack - Around",
+    "source_url": "https://www.youtube.com/watch?v=oZjTGFeBXAY",
+    "path": "music/doomer/oZjTGFeBXAY.mp3",
+    "duration_seconds": 174.05,
+    "bytes": 4183299,
+    "sha256": "6c5f6a73a5c819cdca7f2b65b6bda860ce29035a6c90aa74fb5f8b98ad74f600"
+  },
+  {
+    "id": "GQvsXrUtopc",
+    "category": "doomer",
+    "title": "DOOMER - He was a good stalker",
+    "source_url": "https://www.youtube.com/watch?v=GQvsXrUtopc",
+    "path": "music/doomer/GQvsXrUtopc.mp3",
+    "duration_seconds": 167.58,
+    "bytes": 4027644,
+    "sha256": "e02c4929610e05d43bb3332e1f0b8156a71a8b04a5744e6a9003bebd11decc81"
+  },
+  {
+    "id": "cVp3batAF8A",
+    "category": "doomer",
+    "title": "Losing Tomorrow",
+    "source_url": "https://www.youtube.com/watch?v=cVp3batAF8A",
+    "path": "music/doomer/cVp3batAF8A.mp3",
+    "duration_seconds": 155.59,
+    "bytes": 3739600,
+    "sha256": "51cf1e6cbc9316018e5d9a48854ee8036556f82d902b3d8daa8c54e84130f9d2"
+  },
+  {
+    "id": "0qlvKgm-WXM",
+    "category": "doomer",
+    "title": "F Song",
+    "source_url": "https://www.youtube.com/watch?v=0qlvKgm-WXM",
+    "path": "music/doomer/0qlvKgm-WXM.mp3",
+    "duration_seconds": 224.71,
+    "bytes": 5400132,
+    "sha256": "94c7409e202b470da38850362bba74539529cc48a9b8410412fcbcb0d85338b8"
+  },
+  {
+    "id": "DiDUIfMk7go",
+    "category": "doomer",
+    "title": "Спокойная ночь",
+    "source_url": "https://www.youtube.com/watch?v=DiDUIfMk7go",
+    "path": "music/doomer/DiDUIfMk7go.mp3",
+    "duration_seconds": 382.85,
+    "bytes": 9199430,
+    "sha256": "20094aec2a34edcca9509c8f1989a9340ce04f65b3072ebbb30f253a754b2636"
+  },
+  {
+    "id": "cmDgfzpKw5w",
+    "category": "doomer",
+    "title": "Bernard Herrmann - I Still Can't Sleep - Taxi Driver",
+    "source_url": "https://www.youtube.com/watch?v=cmDgfzpKw5w",
+    "path": "music/doomer/cmDgfzpKw5w.mp3",
+    "duration_seconds": 501.55,
+    "bytes": 12051093,
+    "sha256": "0593089bfe17dc7c696a9a0206d4eb7efe8b5fdaeff6b1a088f6c25d8b014d7c"
+  },
+  {
+    "id": "zE_rK8PX83Q",
+    "category": "doomer",
+    "title": "Pinegrove - Need 2 (official lyric video)",
+    "source_url": "https://www.youtube.com/watch?v=zE_rK8PX83Q",
+    "path": "music/doomer/zE_rK8PX83Q.mp3",
+    "duration_seconds": 191.87,
+    "bytes": 4611291,
+    "sha256": "ba43750e71f2020d2db9615804b60fa4563ddb4c627bbc7b293ba0f1903b60d7"
+  },
+  {
+    "id": "a6u00EcpNcs",
+    "category": "doomer",
+    "title": "billy idol - eyes without a face (slowed & reverb)",
+    "source_url": "https://www.youtube.com/watch?v=a6u00EcpNcs",
+    "path": "music/doomer/a6u00EcpNcs.mp3",
+    "duration_seconds": 325.28,
+    "bytes": 7816278,
+    "sha256": "94449b09e5f90abe4ea1b4cea8043d535f3dd76da6938b829413bc9d22bb3b66"
+  },
+  {
+    "id": "e1H5373Pmm8",
+    "category": "doomer",
+    "title": "Silent Hill 2 OST - Prisonic Fairytale (Slowed + Reverb)",
+    "source_url": "https://www.youtube.com/watch?v=e1H5373Pmm8",
+    "path": "music/doomer/e1H5373Pmm8.mp3",
+    "duration_seconds": 1107.46,
+    "bytes": 26607484,
+    "sha256": "e4b391d94a7481d1b5bff34298a4360bc12c1716f9f7236728aea67560865365"
+  },
+  {
+    "id": "1Gw3ZbXcF00",
+    "category": "doomer",
+    "title": "Тоска",
+    "source_url": "https://www.youtube.com/watch?v=1Gw3ZbXcF00",
+    "path": "music/doomer/1Gw3ZbXcF00.mp3",
+    "duration_seconds": 189.05,
+    "bytes": 4543506,
+    "sha256": "5926d3a0a419e4b9c84f61bc5708161313f64b01be7ff49142107548c112f74b"
+  }
+]
