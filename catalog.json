@@ -232,12 +232,12 @@
   {
     "id": "lAKIbre6neM",
     "category": "forgotten",
-    "title": "Fear & Hunger OST - Eastern Wind",
+    "title": "Eastern Wind",
     "source_url": "https://www.youtube.com/watch?v=lAKIbre6neM",
     "path": "music/forgotten/lAKIbre6neM.mp3",
     "duration_seconds": 144.35,
     "bytes": 3469743,
-    "sha256": "d84a5b4eeef2a93600750642cf843ed896ca0eaf7281ec214074e1d392fcc4a1"
+    "sha256": "5db32ad7dd9a298f22a2dd4e102e4db345c6c2c10c229fe0322dbbb6fa057eb0"
   },
   {
     "id": "BbTSKh_ANPU",
@@ -302,12 +302,12 @@
   {
     "id": "vRBu_RLBt1A",
     "category": "oldpop",
-    "title": "Predador de Perereca (1982)",
+    "title": "Predador de Perereca",
     "source_url": "https://www.youtube.com/watch?v=vRBu_RLBt1A",
     "path": "music/oldpop/vRBu_RLBt1A.mp3",
     "duration_seconds": 186.75,
     "bytes": 4488274,
-    "sha256": "4078f1f0efd94eae5ff185c1586fbce0359c46c900d258f2f628f80e0e1b7e02"
+    "sha256": "60a7b59c9193bbc2f9134b96b5645af1a3e2225436e7ec3f4e8019cc4b413ac8"
   },
   {
     "id": "ltjio4AM2uw",
@@ -322,12 +322,12 @@
   {
     "id": "mUb9PM8tSRQ",
     "category": "oldpop",
-    "title": "Roça Roça (1983)",
+    "title": "Roça Roça",
     "source_url": "https://www.youtube.com/watch?v=mUb9PM8tSRQ",
     "path": "music/oldpop/mUb9PM8tSRQ.mp3",
     "duration_seconds": 172.67,
     "bytes": 4150007,
-    "sha256": "d7ec53e80cc92c2b6ccd0aeeb5b7bc1037eee908ec32c2764717464dac1a477d"
+    "sha256": "b2f3fd6df5596b7ad481ccdfe131f12fe65f2edc44f1a1ed8eef06baad31246b"
   },
   {
     "id": "BwGZKIx5FN8",
@@ -352,112 +352,112 @@
   {
     "id": "o7g-XBV8CAE",
     "category": "doomer",
-    "title": "Mr.Kitty - After Dark (Doomer Wave)",
+    "title": "Mr.Kitty — After Dark",
     "source_url": "https://www.youtube.com/watch?v=o7g-XBV8CAE",
     "path": "music/doomer/o7g-XBV8CAE.mp3",
     "duration_seconds": 292.05,
     "bytes": 7017999,
-    "sha256": "d4c0eedcc47052e2c5d93f926c36e0cba048944d0d16ddefffac795fd1893247"
+    "sha256": "55df21ccaa7dc12a57bd637d71d5d504b7263c55d2dbfa7fbe025eac1a951816"
   },
   {
     "id": "UQ_LeKjcEFE",
     "category": "doomer",
-    "title": "HOME - Resonance  Ｄｏｏｍｅｒ Ｗａｖｅ 破滅",
+    "title": "HOME — Resonance",
     "source_url": "https://www.youtube.com/watch?v=UQ_LeKjcEFE",
     "path": "music/doomer/UQ_LeKjcEFE.mp3",
     "duration_seconds": 333.22,
     "bytes": 8007064,
-    "sha256": "a34dcc9ac9f9c74195d1b87bff94f40fba5d7cd8bb08171e42e4d3c367355fb1"
+    "sha256": "c981228fcc49135697ce024f6fa8e420d1edcd5dac6dae5990c3216657ae5b2c"
   },
   {
     "id": "n1B6cs8WuIw",
     "category": "doomer",
-    "title": "The Walters - I Love You So (Doomer Wave)",
+    "title": "The Walters — I Love You So",
     "source_url": "https://www.youtube.com/watch?v=n1B6cs8WuIw",
     "path": "music/doomer/n1B6cs8WuIw.mp3",
     "duration_seconds": 183.59,
     "bytes": 4412352,
-    "sha256": "e87ce1eb719a35f4946485392f88b4a236c3bdbeee6861bf11b56e9093febc28"
+    "sha256": "55ee939ad55bf128710fa060771999a482a8f4c85ad5d070fc2da3aab0e060fa"
   },
   {
     "id": "65C68DnQfMc",
     "category": "doomer",
-    "title": "somebody that i used to know - Ｄｏｏｍｅｒ Ｗａｖｅ",
+    "title": "Somebody That I Used to Know",
     "source_url": "https://www.youtube.com/watch?v=65C68DnQfMc",
     "path": "music/doomer/65C68DnQfMc.mp3",
     "duration_seconds": 288.63,
     "bytes": 6935815,
-    "sha256": "97b3b4948b0739caafbb353db0b0b8359c8a76aa592fc0b10d47555664a6caba"
+    "sha256": "6731fb310694623f12e73db37d9a682cd35f4a41e6d778e808888faaf8e0f237"
   },
   {
     "id": "mFrp7hhgxdc",
     "category": "doomer",
-    "title": "Mr.Kitty - Dream Diver (Doomer Wave)",
+    "title": "Mr.Kitty — Dream Diver",
     "source_url": "https://www.youtube.com/watch?v=mFrp7hhgxdc",
     "path": "music/doomer/mFrp7hhgxdc.mp3",
     "duration_seconds": 313.73,
     "bytes": 7538880,
-    "sha256": "f36a2f2e666dafa705e399500b5ceb38bd0b5b87eca6837421d5c2229cb8aded"
+    "sha256": "30bebfacae130e8c2c826ad48ff6bb904f67e531bd6a301143e88ae583b35f74"
   },
   {
     "id": "65_rrjVV68k",
     "category": "doomer",
-    "title": "Где Фантом? - Стихи (Doomer version)",
+    "title": "Где Фантом? — Стихи",
     "source_url": "https://www.youtube.com/watch?v=65_rrjVV68k",
     "path": "music/doomer/65_rrjVV68k.mp3",
     "duration_seconds": 164.73,
     "bytes": 3959259,
-    "sha256": "21260d20ff317ce41031b48a9f40d7492b36828d8eecc2cc42336178cf4d8335"
+    "sha256": "e1e34e83da55e65e34f487bdefbeb8968d825a2f6e73b75055863938a588a30d"
   },
   {
     "id": "dckyHSxXl24",
     "category": "doomer",
-    "title": "Surf Curse - Freaks (Doomer)",
+    "title": "Surf Curse — Freaks",
     "source_url": "https://www.youtube.com/watch?v=dckyHSxXl24",
     "path": "music/doomer/dckyHSxXl24.mp3",
     "duration_seconds": 163.84,
     "bytes": 3937900,
-    "sha256": "c810891dd1db9981142a0c4c483fc3bedeb7aacbc5185182358da5e90b9c5b57"
+    "sha256": "8d213273a18394185aae022d994ca1fb62b2ccebf82e45500044b8b43f3ac1d9"
   },
   {
     "id": "LlN8MPS7KQs",
     "category": "doomer",
-    "title": "øneheart x reidenshi - snowfall",
+    "title": "øneheart x reidenshi — snowfall",
     "source_url": "https://www.youtube.com/watch?v=LlN8MPS7KQs",
     "path": "music/doomer/LlN8MPS7KQs.mp3",
     "duration_seconds": 123.27,
     "bytes": 2963295,
-    "sha256": "057afab1e6b4a97740a25c1f53b824717fc06cbc27c450e4faeb1f9eb8060d9d"
+    "sha256": "b4d17587d7f051c278f5b3697ede87b9c462e21b056c958c338e267d29e48c9b"
   },
   {
     "id": "Y-Qu_Fk23T4",
     "category": "doomer",
-    "title": "Hotline Miami 2: Wrong Number Soundtrack - The Green Kingdom - 02 Untitled",
+    "title": "The Green Kingdom — 02 Untitled",
     "source_url": "https://www.youtube.com/watch?v=Y-Qu_Fk23T4",
     "path": "music/doomer/Y-Qu_Fk23T4.mp3",
     "duration_seconds": 400.04,
     "bytes": 9612395,
-    "sha256": "b7797705f69f0d24b025785074660a57ed00a33c8f4b9dcf2ea8e6994e08cc91"
+    "sha256": "03ff76fa428fe1c650c9cde61ba336329894c73bc7983c130a4bc7a629b5a6cb"
   },
   {
     "id": "oZjTGFeBXAY",
     "category": "doomer",
-    "title": "Hotline Miami 2: Wrong Number Soundtrack - Around",
+    "title": "Around",
     "source_url": "https://www.youtube.com/watch?v=oZjTGFeBXAY",
     "path": "music/doomer/oZjTGFeBXAY.mp3",
     "duration_seconds": 174.05,
     "bytes": 4183299,
-    "sha256": "6c5f6a73a5c819cdca7f2b65b6bda860ce29035a6c90aa74fb5f8b98ad74f600"
+    "sha256": "22531ab7ab62a3811628613ec415455d545f09d0844dc57b58c10b5134b20b5f"
   },
   {
     "id": "GQvsXrUtopc",
     "category": "doomer",
-    "title": "DOOMER - He was a good stalker",
+    "title": "He was a good stalker",
     "source_url": "https://www.youtube.com/watch?v=GQvsXrUtopc",
     "path": "music/doomer/GQvsXrUtopc.mp3",
     "duration_seconds": 167.58,
     "bytes": 4027644,
-    "sha256": "e02c4929610e05d43bb3332e1f0b8156a71a8b04a5744e6a9003bebd11decc81"
+    "sha256": "e93ee7df62e5332517aa3782c20b17f6ba5480fb4227c12b64db901c48479504"
   },
   {
     "id": "cVp3batAF8A",
@@ -480,54 +480,44 @@
     "sha256": "94c7409e202b470da38850362bba74539529cc48a9b8410412fcbcb0d85338b8"
   },
   {
-    "id": "DiDUIfMk7go",
-    "category": "doomer",
-    "title": "Спокойная ночь",
-    "source_url": "https://www.youtube.com/watch?v=DiDUIfMk7go",
-    "path": "music/doomer/DiDUIfMk7go.mp3",
-    "duration_seconds": 382.85,
-    "bytes": 9199430,
-    "sha256": "20094aec2a34edcca9509c8f1989a9340ce04f65b3072ebbb30f253a754b2636"
-  },
-  {
     "id": "cmDgfzpKw5w",
     "category": "doomer",
-    "title": "Bernard Herrmann - I Still Can't Sleep - Taxi Driver",
+    "title": "Bernard Herrmann — I Still Can't Sleep",
     "source_url": "https://www.youtube.com/watch?v=cmDgfzpKw5w",
     "path": "music/doomer/cmDgfzpKw5w.mp3",
     "duration_seconds": 501.55,
     "bytes": 12051093,
-    "sha256": "0593089bfe17dc7c696a9a0206d4eb7efe8b5fdaeff6b1a088f6c25d8b014d7c"
+    "sha256": "d50b52a7ce3bc0d8402ae63ad8658ba24e83d4ea160885c79d01e171f32be3d3"
   },
   {
     "id": "zE_rK8PX83Q",
     "category": "doomer",
-    "title": "Pinegrove - Need 2 (official lyric video)",
+    "title": "Pinegrove — Need 2",
     "source_url": "https://www.youtube.com/watch?v=zE_rK8PX83Q",
     "path": "music/doomer/zE_rK8PX83Q.mp3",
     "duration_seconds": 191.87,
     "bytes": 4611291,
-    "sha256": "ba43750e71f2020d2db9615804b60fa4563ddb4c627bbc7b293ba0f1903b60d7"
+    "sha256": "6dd2ec44f8c4e7990fc612f8ee94f26d3e8b9af9449d10ac73c5b48eca5722ac"
   },
   {
     "id": "a6u00EcpNcs",
     "category": "doomer",
-    "title": "billy idol - eyes without a face (slowed & reverb)",
+    "title": "Billy Idol — Eyes Without a Face",
     "source_url": "https://www.youtube.com/watch?v=a6u00EcpNcs",
     "path": "music/doomer/a6u00EcpNcs.mp3",
     "duration_seconds": 325.28,
     "bytes": 7816278,
-    "sha256": "94449b09e5f90abe4ea1b4cea8043d535f3dd76da6938b829413bc9d22bb3b66"
+    "sha256": "db4b1be2d74e04360e57a3f71f3f9bfc35a2acee7a64425d35896bf21d32c1d2"
   },
   {
     "id": "e1H5373Pmm8",
     "category": "doomer",
-    "title": "Silent Hill 2 OST - Prisonic Fairytale (Slowed + Reverb)",
+    "title": "Prisonic Fairytale",
     "source_url": "https://www.youtube.com/watch?v=e1H5373Pmm8",
     "path": "music/doomer/e1H5373Pmm8.mp3",
     "duration_seconds": 1107.46,
     "bytes": 26607484,
-    "sha256": "e4b391d94a7481d1b5bff34298a4360bc12c1716f9f7236728aea67560865365"
+    "sha256": "c7c7cc0a03c6474ea8986918ec3979c89821c41a488556637c9e8fe9fa0b51bf"
   },
   {
     "id": "1Gw3ZbXcF00",
@@ -787,14 +777,14 @@
   {
     "id": "cruel_world_city_ambience_part_1",
     "category": "cruel_world",
-    "title": "City Ambience (Part 1)",
+    "title": "City Ambience Part 1",
     "source_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3735090249",
     "source_path": "cruel world/city ambience (part 1).mp3",
     "source_playlist": "Cruel world we live in",
     "path": "music/cruel_world/cruel_world_city_ambience_part_1.mp3",
     "duration_seconds": 168.02,
-    "bytes": 4084474,
-    "sha256": "3bf19c6de83060f480fa6a2328472226d13a7a441a6f9e54d8d09f27f8deb80a",
+    "bytes": 4089638,
+    "sha256": "845e23f601fa3c7c521baa260844b1b36fb20976083757cd17ff72bf7cebdd17",
     "sample_rate": 48000,
     "channels": 2,
     "bitrate": 192000
@@ -802,14 +792,14 @@
   {
     "id": "cruel_world_city_ambience_part_2",
     "category": "cruel_world",
-    "title": "City Ambience (Part 2)",
+    "title": "City Ambience Part 2",
     "source_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3735090249",
     "source_path": "cruel world/city ambience (part 2).mp3",
     "source_playlist": "Cruel world we live in",
     "path": "music/cruel_world/cruel_world_city_ambience_part_2.mp3",
     "duration_seconds": 146.3,
-    "bytes": 3563194,
-    "sha256": "5e3a5f482a33adbb36f78ff7e74c979d4cfed887e763d0821f196ccac8c0f2c8",
+    "bytes": 3567837,
+    "sha256": "5fb694167c10fe4c741f5ba0cce82ce4b82d0073ae16c1f05289c2099ddb03ac",
     "sample_rate": 48000,
     "channels": 2,
     "bitrate": 192000
@@ -817,14 +807,14 @@
   {
     "id": "cruel_world_city_ambience_part_3",
     "category": "cruel_world",
-    "title": "City Ambience (Part 3)",
+    "title": "City Ambience Part 3",
     "source_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3735090249",
     "source_path": "cruel world/city ambience (part 3).mp3",
     "source_playlist": "Cruel world we live in",
     "path": "music/cruel_world/cruel_world_city_ambience_part_3.mp3",
     "duration_seconds": 81.05,
-    "bytes": 1997026,
-    "sha256": "5bb70eba272d6041c48a455aee6b841f57d13091bb0d6ced0772594c34965005",
+    "bytes": 2000103,
+    "sha256": "756533fcd5b2f2aa2797d589213a2ab886c9e69c071f5ca2a160cab726ae0669",
     "sample_rate": 48000,
     "channels": 2,
     "bitrate": 192000
@@ -1023,5 +1013,865 @@
     "sample_rate": 48000,
     "channels": 2,
     "bitrate": 192000
+  },
+  {
+    "id": "AsO-6XuIi98",
+    "category": "oldpop",
+    "title": "Tai Verdes - last day on earth",
+    "source_url": "https://www.youtube.com/watch?v=AsO-6XuIi98",
+    "path": "music/oldpop/AsO-6XuIi98.mp3",
+    "bytes": 4164449,
+    "sha256": "0820c1f2e0220bc9f547b8e7016884366f4fecfa2192973d28301be0ecef0010",
+    "duration_seconds": 173.27
+  },
+  {
+    "id": "R2RZ-yif6oU",
+    "category": "oldpop",
+    "title": "Soleima - Roses",
+    "source_url": "https://www.youtube.com/watch?v=R2RZ-yif6oU",
+    "path": "music/oldpop/R2RZ-yif6oU.mp3",
+    "bytes": 4546630,
+    "sha256": "0fed1bf5a94c0ad8856f63ac48a3629a7212c82c4950e1a36daec891c13146d5",
+    "duration_seconds": 189.18
+  },
+  {
+    "id": "G7ymMw9twbI",
+    "category": "oldpop",
+    "title": "Alphaville - Forever Young",
+    "source_url": "https://www.youtube.com/watch?v=G7ymMw9twbI",
+    "path": "music/oldpop/G7ymMw9twbI.mp3",
+    "bytes": 5353691,
+    "sha256": "195b7d7c18847c2c9e05f78e89c9c1aaf3abbcb9d442490c244eacf932178ed8",
+    "duration_seconds": 222.77
+  },
+  {
+    "id": "yUi_S6YWjZw",
+    "category": "oldpop",
+    "title": "Michael Jackson - Dirty Diana",
+    "source_url": "https://www.youtube.com/watch?v=yUi_S6YWjZw",
+    "path": "music/oldpop/yUi_S6YWjZw.mp3",
+    "bytes": 7347464,
+    "sha256": "359207bd0049ea15c6cb3c02ecf6bb9446f9417499cd9c63eecdc40c4947f715",
+    "duration_seconds": 305.76
+  },
+  {
+    "id": "d_l-st8Q1S0",
+    "category": "oldpop",
+    "title": "Chicago - Will You Still Love Me?",
+    "source_url": "https://www.youtube.com/watch?v=d_l-st8Q1S0",
+    "path": "music/oldpop/d_l-st8Q1S0.mp3",
+    "bytes": 6215973,
+    "sha256": "35ff74d26962be346097d346f18615c48b9352591247dd2f3d2974719ee6ee81",
+    "duration_seconds": 258.66
+  },
+  {
+    "id": "56hqrlQxMMI",
+    "category": "oldpop",
+    "title": "The Alan Parsons Project - Eye in the Sky",
+    "source_url": "https://www.youtube.com/watch?v=56hqrlQxMMI",
+    "path": "music/oldpop/56hqrlQxMMI.mp3",
+    "bytes": 6665940,
+    "sha256": "be9b126d0b76c4a39c6a3d7c4195323821c5cd1e6cf1c1c5b3183ae3e0c219eb",
+    "duration_seconds": 277.39
+  },
+  {
+    "id": "OMOGaugKpzs",
+    "category": "oldpop",
+    "title": "The Police - Every Breath You Take",
+    "source_url": "https://www.youtube.com/watch?v=OMOGaugKpzs",
+    "path": "music/oldpop/OMOGaugKpzs.mp3",
+    "bytes": 5501805,
+    "sha256": "e1fe09f184de378d5cf4983d216643a1258037d086f0a158d64eecaac91f7e2a",
+    "duration_seconds": 228.94
+  },
+  {
+    "id": "egMWlD3fLJ8",
+    "category": "southern_rock",
+    "title": "Steppenwolf - Born To Be Wild",
+    "source_url": "https://www.youtube.com/watch?v=egMWlD3fLJ8",
+    "path": "music/southern_rock/egMWlD3fLJ8.mp3",
+    "bytes": 5190524,
+    "sha256": "edb9f0b2eb614a585ac6029be80f9d6eb13d2f937e3ebeca02db8871b3634fc3",
+    "duration_seconds": 215.98
+  },
+  {
+    "id": "R8UAFE21BN4",
+    "category": "20s",
+    "title": "Coldplay - Viva La Vida",
+    "source_url": "https://www.youtube.com/watch?v=R8UAFE21BN4",
+    "path": "music/20s/R8UAFE21BN4.mp3",
+    "bytes": 5835031,
+    "sha256": "f772c00d687bff2745716e24c498d6c5072972c9c106c4b4ac9541f1cf18fd4e",
+    "duration_seconds": 242.81
+  },
+  {
+    "id": "20s_AsO-6XuIi98",
+    "category": "20s",
+    "title": "Tai Verdes - last day on earth",
+    "source_url": "https://www.youtube.com/watch?v=AsO-6XuIi98",
+    "path": "music/20s/AsO-6XuIi98.mp3",
+    "bytes": 4164449,
+    "sha256": "de9e2e56bcdf8831fd3451bda8c8b288e76b696acd889ae785f75469d4f0b432",
+    "duration_seconds": 173.27
+  },
+  {
+    "id": "20s_R2RZ-yif6oU",
+    "category": "20s",
+    "title": "Soleima - Roses",
+    "source_url": "https://www.youtube.com/watch?v=R2RZ-yif6oU",
+    "path": "music/20s/R2RZ-yif6oU.mp3",
+    "bytes": 4546630,
+    "sha256": "1ecf07222968e0632e6592bdadb9f44a486a95b363a2c3726f2f37b6b46cc390",
+    "duration_seconds": 189.18
+  },
+  {
+    "id": "F9kXstb9FF4",
+    "category": "20s",
+    "title": "The Strumbellas - Spirits",
+    "source_url": "https://www.youtube.com/watch?v=F9kXstb9FF4",
+    "path": "music/20s/F9kXstb9FF4.mp3",
+    "bytes": 5112054,
+    "sha256": "1671cbfe7d91e50954937ef8cd016aee5ff1e2a12d5744ebcca9d502db5208d0",
+    "duration_seconds": 212.72
+  },
+  {
+    "id": "5GG81To6nl4",
+    "category": "90s",
+    "title": "Dead As Disco - Maniac",
+    "source_url": "https://www.youtube.com/watch?v=5GG81To6nl4",
+    "path": "music/90s/5GG81To6nl4.mp3",
+    "bytes": 6313853,
+    "sha256": "3e45eb4c844ac51471874a0527f074f893fbd5d9f9197580b078f64eb1e038ff",
+    "duration_seconds": 262.74
+  },
+  {
+    "id": "Bk9j--PvOms",
+    "category": "futuredreams",
+    "title": "Borderworld",
+    "source_url": "https://www.youtube.com/watch?v=Bk9j--PvOms",
+    "path": "music/futuredreams/Bk9j--PvOms.mp3",
+    "bytes": 4547231,
+    "sha256": "03f06aa1b163bab2878291f72b872bb791fee4ab80adcd35f2c0a6e2185692fb",
+    "duration_seconds": 189.2
+  },
+  {
+    "id": "S8wwUCInNO8",
+    "category": "futuredreams",
+    "title": "Chrome Dreams",
+    "source_url": "https://www.youtube.com/watch?v=S8wwUCInNO8",
+    "path": "music/futuredreams/S8wwUCInNO8.mp3",
+    "bytes": 5553221,
+    "sha256": "b5bf71c54ab296e775d9827fca3c71b2efa084cb6a7367ba0ba4f704cb58b556",
+    "duration_seconds": 231.08
+  },
+  {
+    "id": "MRSoOP7juUI",
+    "category": "futuredreams",
+    "title": "Midnight City",
+    "source_url": "https://www.youtube.com/watch?v=MRSoOP7juUI",
+    "path": "music/futuredreams/MRSoOP7juUI.mp3",
+    "bytes": 4614383,
+    "sha256": "11ebe8427c015ebf7b237018ce8027bb67bf8a7338d3fe31b0e53acf0bfc4b94",
+    "duration_seconds": 192.0
+  },
+  {
+    "id": "Ul8TL-uNJjk",
+    "category": "futuredreams",
+    "title": "M",
+    "source_url": "https://www.youtube.com/watch?v=Ul8TL-uNJjk",
+    "path": "music/futuredreams/Ul8TL-uNJjk.mp3",
+    "bytes": 4260424,
+    "sha256": "7615ea2df19b775f46b6c359ca146acf02d67ca507f617ea3bbc5fdb68de2e2d",
+    "duration_seconds": 177.27
+  },
+  {
+    "id": "xNukHZBAX0A",
+    "category": "futuredreams",
+    "title": "Andromeda",
+    "source_url": "https://www.youtube.com/watch?v=xNukHZBAX0A",
+    "path": "music/futuredreams/xNukHZBAX0A.mp3",
+    "bytes": 5255751,
+    "sha256": "d0d92e27b53bcc64ed4744433456596d3da54c05159eb43a32a068bcf44128f5",
+    "duration_seconds": 218.7
+  },
+  {
+    "id": "jJKNRyeL7nc",
+    "category": "futuredreams",
+    "title": "SANABI",
+    "source_url": "https://www.youtube.com/watch?v=jJKNRyeL7nc",
+    "path": "music/futuredreams/jJKNRyeL7nc.mp3",
+    "bytes": 1968589,
+    "sha256": "b1dd1b80a30b5a56f4b2b8227e01a9d675c2fffa30eb8e450152d384f607eaec",
+    "duration_seconds": 81.87
+  },
+  {
+    "id": "lM2kcpCjh04",
+    "category": "talesweaver",
+    "title": "Reminiscence",
+    "source_url": "https://www.youtube.com/watch?v=lM2kcpCjh04",
+    "path": "music/talesweaver/lM2kcpCjh04.mp3",
+    "bytes": 3491685,
+    "sha256": "d83c66c96891477643e5d9a774493ba3ac37753bf7d4ef30526bb823df794d2b",
+    "duration_seconds": 145.27
+  },
+  {
+    "id": "MhHxVaJ9sT4",
+    "category": "talesweaver",
+    "title": "Second Run",
+    "source_url": "https://www.youtube.com/watch?v=MhHxVaJ9sT4",
+    "path": "music/talesweaver/MhHxVaJ9sT4.mp3",
+    "bytes": 2862865,
+    "sha256": "3094c58f46d65faa92538bbba5a50fabd8e8dc53c6e63e8a57012176fc348a7d",
+    "duration_seconds": 119.09
+  },
+  {
+    "id": "sXEwSzhrADc",
+    "category": "talesweaver",
+    "title": "First Run",
+    "source_url": "https://www.youtube.com/watch?v=sXEwSzhrADc",
+    "path": "music/talesweaver/sXEwSzhrADc.mp3",
+    "bytes": 2480678,
+    "sha256": "4c07922940b68517e8560e58e777aa13685a321d265a4430365603c7c1287a37",
+    "duration_seconds": 103.18
+  },
+  {
+    "id": "HuxH5EM45zA",
+    "category": "talesweaver",
+    "title": "紅唇 (홍순)",
+    "source_url": "https://www.youtube.com/watch?v=HuxH5EM45zA",
+    "path": "music/talesweaver/HuxH5EM45zA.mp3",
+    "bytes": 7981297,
+    "sha256": "165511dc0e69accc71e9beb2367ee75182084560f71dda53dc8bba19552f421d",
+    "duration_seconds": 332.15
+  },
+  {
+    "id": "zDDhultEOac",
+    "category": "js_light_n_swing",
+    "title": "Catch Me If You Can",
+    "source_url": "https://www.youtube.com/watch?v=zDDhultEOac",
+    "path": "music/js_light_n_swing/zDDhultEOac.mp3",
+    "bytes": 4959597,
+    "sha256": "e3956b8e027ece4f11616e5221d84aec9ed7618848b98ee5b58665257ee34109",
+    "duration_seconds": 206.37
+  },
+  {
+    "id": "6C_2R8RN4sA",
+    "category": "js_light_n_swing",
+    "title": "Sonic R - You're My Number One",
+    "source_url": "https://www.youtube.com/watch?v=6C_2R8RN4sA",
+    "path": "music/js_light_n_swing/6C_2R8RN4sA.mp3",
+    "bytes": 6113071,
+    "sha256": "c0cb13e1d93cfa00a882c50a575689ae3ab971dced168b543d75f98359213375",
+    "duration_seconds": 254.38
+  },
+  {
+    "id": "GCpo61azoYE",
+    "category": "js_light_n_swing",
+    "title": "A Way of Life",
+    "source_url": "https://www.youtube.com/watch?v=GCpo61azoYE",
+    "path": "music/js_light_n_swing/GCpo61azoYE.mp3",
+    "bytes": 3382471,
+    "sha256": "e603ec6421b30df7017f8e8290f96fadd57d19972dd8b8243acf969ca610f044",
+    "duration_seconds": 140.72
+  },
+  {
+    "id": "OuiTHMuvqT4",
+    "category": "maxico",
+    "title": "Canción del Mariachi",
+    "source_url": "https://www.youtube.com/watch?v=OuiTHMuvqT4",
+    "path": "music/maxico/OuiTHMuvqT4.mp3",
+    "bytes": 3059318,
+    "sha256": "db88f000d52cb5ed8794d6fa0da4e4d84368a848238fb7119174bab2174dd98b",
+    "duration_seconds": 127.27
+  },
+  {
+    "id": "qSss3tAd6i4",
+    "category": "cafe",
+    "title": "Tenderhearted",
+    "source_url": "https://www.youtube.com/watch?v=qSss3tAd6i4",
+    "path": "music/cafe/qSss3tAd6i4.mp3",
+    "bytes": 8651513,
+    "sha256": "fa01a50461cff39e0ad1168088246531d3dad5d6f0ff09d2795cf29bce2f1cfd",
+    "duration_seconds": 360.05
+  },
+  {
+    "id": "gm66awne9pw",
+    "category": "cafe",
+    "title": "Come Closer",
+    "source_url": "https://www.youtube.com/watch?v=gm66awne9pw",
+    "path": "music/cafe/gm66awne9pw.mp3",
+    "bytes": 8055951,
+    "sha256": "5cc07f5166f73bfd2707520addbbf2bf333065dda414888f2d8a37fa743590b5",
+    "duration_seconds": 335.26
+  },
+  {
+    "id": "x4kMXYVSvPE",
+    "category": "cafe",
+    "title": "Bourbon Mist",
+    "source_url": "https://www.youtube.com/watch?v=x4kMXYVSvPE",
+    "path": "music/cafe/x4kMXYVSvPE.mp3",
+    "bytes": 4506440,
+    "sha256": "ff7ab8b798f41889c7b212b97470bcb5fd285ee47820505239e4aa054bf3a8ac",
+    "duration_seconds": 187.51
+  },
+  {
+    "id": "cghwVSwTKwA",
+    "category": "cafe",
+    "title": "Papov",
+    "source_url": "https://www.youtube.com/watch?v=cghwVSwTKwA",
+    "path": "music/cafe/cghwVSwTKwA.mp3",
+    "bytes": 4286786,
+    "sha256": "0db8a2048085afdc5fe789b6ef98f8f04c0bee51ae663d7c86fd8ae8948977f4",
+    "duration_seconds": 178.36
+  },
+  {
+    "id": "AxL5-_fP7rA",
+    "category": "cafe",
+    "title": "Never Be Forgotten",
+    "source_url": "https://www.youtube.com/watch?v=AxL5-_fP7rA",
+    "path": "music/cafe/AxL5-_fP7rA.mp3",
+    "bytes": 5477918,
+    "sha256": "96d5d1eb97a2b9ab83bdffe346df2c141f46a7ae7d5d78a88548c5812cdd99b2",
+    "duration_seconds": 227.94
+  },
+  {
+    "id": "3RmQTYLD398",
+    "category": "nam",
+    "title": "Fortunate Son",
+    "source_url": "https://www.youtube.com/watch?v=3RmQTYLD398",
+    "path": "music/nam/3RmQTYLD398.mp3",
+    "bytes": 3346072,
+    "sha256": "2cedb4c521253155728aa52b8058b54383124059857573c2f99384dd4324bc18",
+    "duration_seconds": 139.21
+  },
+  {
+    "id": "N4bFqW_eu2I",
+    "category": "nam",
+    "title": "The Animals - House Of The Rising Sun",
+    "source_url": "https://www.youtube.com/watch?v=N4bFqW_eu2I",
+    "path": "music/nam/N4bFqW_eu2I.mp3",
+    "bytes": 6251748,
+    "sha256": "0cbc9156dd1ec067321f44b06a9c0d3f4997057c8ecdcaffc6aadb64da2e9291",
+    "duration_seconds": 260.15
+  },
+  {
+    "id": "O4irXQhgMqg",
+    "category": "nam",
+    "title": "The Rolling Stones - Paint It, Black",
+    "source_url": "https://www.youtube.com/watch?v=O4irXQhgMqg",
+    "path": "music/nam/O4irXQhgMqg.mp3",
+    "bytes": 5437795,
+    "sha256": "1a0c6da41984e77b11f4c0e5717c7666c629aed9fbff96e9ca4c2caa5daa51ba",
+    "duration_seconds": 226.27
+  },
+  {
+    "id": "fVB73PYQ1rY",
+    "category": "nam",
+    "title": "CCR-Run Through The Jungle",
+    "source_url": "https://www.youtube.com/watch?v=fVB73PYQ1rY",
+    "path": "music/nam/fVB73PYQ1rY.mp3",
+    "bytes": 4350223,
+    "sha256": "6562ac36a911e8499fdb77f21d2ce4edf596ad3058d283cf2d60cdb5f16439cf",
+    "duration_seconds": 181.0
+  },
+  {
+    "id": "hZJRJpbGkG4",
+    "category": "nam",
+    "title": "War",
+    "source_url": "https://www.youtube.com/watch?v=hZJRJpbGkG4",
+    "path": "music/nam/hZJRJpbGkG4.mp3",
+    "bytes": 5530619,
+    "sha256": "80344f6a07e1ea2543b2a715ad71e7584b195bedcd5eb4f8822dfd083c398bd9",
+    "duration_seconds": 230.14
+  },
+  {
+    "id": "BOTIIw76qiE",
+    "category": "nam",
+    "title": "Black Sabbath - Paranoid",
+    "source_url": "https://www.youtube.com/watch?v=BOTIIw76qiE",
+    "path": "music/nam/BOTIIw76qiE.mp3",
+    "bytes": 4048974,
+    "sha256": "973af66037fab5feec498291c580dc1ab4b316dd8a7826ec8b90e3d757456f11",
+    "duration_seconds": 168.46
+  },
+  {
+    "id": "I8FBfumY9II",
+    "category": "nam",
+    "title": "Pisse - Fahrradsattel",
+    "source_url": "https://www.youtube.com/watch?v=I8FBfumY9II",
+    "path": "music/nam/I8FBfumY9II.mp3",
+    "bytes": 2370235,
+    "sha256": "ed24ce29e9007b05daa9e9371db41d3a521cfbd4dc61030d0decc6505097819e",
+    "duration_seconds": 98.59
+  },
+  {
+    "id": "NFeUko-lQHg",
+    "category": "nam",
+    "title": "Break on Through (To the Other Side)",
+    "source_url": "https://www.youtube.com/watch?v=NFeUko-lQHg",
+    "path": "music/nam/NFeUko-lQHg.mp3",
+    "bytes": 3507473,
+    "sha256": "d36b794fa6124b6b1c64a55bb5008da02ed9bb1eec78a985095c1337c54e2c0b",
+    "duration_seconds": 145.92
+  },
+  {
+    "id": "r_mSS9EXv-8",
+    "category": "rebels",
+    "title": "El pueblo unido",
+    "source_url": "https://www.youtube.com/watch?v=r_mSS9EXv-8",
+    "path": "music/rebels/r_mSS9EXv-8.mp3",
+    "bytes": 5076965,
+    "sha256": "b08bc91ad4e1a94082c46238c08377907a262c5728d6aa0698ddfce535cc5827",
+    "duration_seconds": 211.25
+  },
+  {
+    "id": "akM15yAVeco",
+    "category": "rebels",
+    "title": "Funiculi-funiculá",
+    "source_url": "https://www.youtube.com/watch?v=akM15yAVeco",
+    "path": "music/rebels/akM15yAVeco.mp3",
+    "bytes": 3724534,
+    "sha256": "058b563e9e63d751e5878fadd5e73072e17bddec55b8183bb7fb4f651e6a6216",
+    "duration_seconds": 154.96
+  },
+  {
+    "id": "hM9KE0u_qFw",
+    "category": "rebels",
+    "title": "Anthem of Europe",
+    "source_url": "https://www.youtube.com/watch?v=hM9KE0u_qFw",
+    "path": "music/rebels/hM9KE0u_qFw.mp3",
+    "bytes": 3558846,
+    "sha256": "4d28b6b15ff441526adb669a1bf15ce1eb0530c44890dcc89ae3e7a4316d43be",
+    "duration_seconds": 148.06
+  },
+  {
+    "id": "8xmnyNOSLzs",
+    "category": "rebels",
+    "title": "Säkkijärven Polkka",
+    "source_url": "https://www.youtube.com/watch?v=8xmnyNOSLzs",
+    "path": "music/rebels/8xmnyNOSLzs.mp3",
+    "bytes": 3175424,
+    "sha256": "1e332d53557d037f2d5ca4c8a46123f2a0f1d7c35006420465f88bb581074f17",
+    "duration_seconds": 132.1
+  },
+  {
+    "id": "5ByPWI8oUbY",
+    "category": "rebels",
+    "title": "Bella Ciao",
+    "source_url": "https://www.youtube.com/watch?v=5ByPWI8oUbY",
+    "path": "music/rebels/5ByPWI8oUbY.mp3",
+    "bytes": 5897228,
+    "sha256": "87ef728d9cbca3ec35012eef7f606ee417c292fa5632753472481611acf51b49",
+    "duration_seconds": 245.39
+  },
+  {
+    "id": "HM_wIE8EGv8",
+    "category": "rebels",
+    "title": "Hej sokoły",
+    "source_url": "https://www.youtube.com/watch?v=HM_wIE8EGv8",
+    "path": "music/rebels/HM_wIE8EGv8.mp3",
+    "bytes": 4358382,
+    "sha256": "4a6d789e9073699b94daaa5b3db2e67792259febcdac8c0185496acf42f5a748",
+    "duration_seconds": 181.34
+  },
+  {
+    "id": "tkqEeiOXJUw",
+    "category": "zhonghua",
+    "title": "天上太阳红彤彤",
+    "source_url": "https://www.youtube.com/watch?v=tkqEeiOXJUw",
+    "path": "music/zhonghua/tkqEeiOXJUw.mp3",
+    "bytes": 2090985,
+    "sha256": "970cb3ccd24ce268b73b44bf6bfcc834283fdd95c6db5a13df80559b7d35f913",
+    "duration_seconds": 86.96
+  },
+  {
+    "id": "d058B1yxwK8",
+    "category": "zhonghua",
+    "title": "当那一天来临",
+    "source_url": "https://www.youtube.com/watch?v=d058B1yxwK8",
+    "path": "music/zhonghua/d058B1yxwK8.mp3",
+    "bytes": 2958907,
+    "sha256": "42c23c142d8ddb42d6d2bc07142a3d252b0f3268a76db9cd9d0fd8492143088f",
+    "duration_seconds": 123.09
+  },
+  {
+    "id": "X3bDiD6oSxs",
+    "category": "zhonghua",
+    "title": "民主會戰勝歸來",
+    "source_url": "https://www.youtube.com/watch?v=X3bDiD6oSxs",
+    "path": "music/zhonghua/X3bDiD6oSxs.mp3",
+    "bytes": 6386708,
+    "sha256": "6e612aabe79e6b02c067db228890f1d2c7af13ae1f1294c088e09b5b40ec7e07",
+    "duration_seconds": 265.77
+  },
+  {
+    "id": "bKNyYHp6O7M",
+    "category": "zhonghua",
+    "title": "漫步人生路",
+    "source_url": "https://www.youtube.com/watch?v=bKNyYHp6O7M",
+    "path": "music/zhonghua/bKNyYHp6O7M.mp3",
+    "bytes": 5203092,
+    "sha256": "e7df08a39e7d5c0a2f22c69e9481c5167fe6d1b2b68fa8c96384dc5db63e8275",
+    "duration_seconds": 216.5
+  },
+  {
+    "id": "ZXCIGXkqXpA",
+    "category": "zhonghua",
+    "title": "Silicon Dreams",
+    "source_url": "https://www.youtube.com/watch?v=ZXCIGXkqXpA",
+    "path": "music/zhonghua/ZXCIGXkqXpA.mp3",
+    "bytes": 4463786,
+    "sha256": "37059808a9e34bfd6aa7322ead01ac74393aee6844011b407928ac2f051ce545",
+    "duration_seconds": 185.73
+  },
+  {
+    "id": "iXyz1-Q46Wg",
+    "category": "soviet",
+    "title": "Мы верили, мы знали – победим",
+    "source_url": "https://www.youtube.com/watch?v=iXyz1-Q46Wg",
+    "path": "music/soviet/iXyz1-Q46Wg.mp3",
+    "bytes": 4707339,
+    "sha256": "b4a18c1737fdc4b8da6e2b005396ced4aeb24b2f04ba0e0c2dae1853236d8f95",
+    "duration_seconds": 195.87
+  },
+  {
+    "id": "qQIMsWpXSZ0",
+    "category": "soviet",
+    "title": "Прощание Славянки",
+    "source_url": "https://www.youtube.com/watch?v=qQIMsWpXSZ0",
+    "path": "music/soviet/qQIMsWpXSZ0.mp3",
+    "bytes": 2969602,
+    "sha256": "b56665c027f17dbbdb8bac076d8abc28e20bedf60e8c89045d6997714a63eb48",
+    "duration_seconds": 123.53
+  },
+  {
+    "id": "zwj_7vUh82c",
+    "category": "soviet",
+    "title": "В путь",
+    "source_url": "https://www.youtube.com/watch?v=zwj_7vUh82c",
+    "path": "music/soviet/zwj_7vUh82c.mp3",
+    "bytes": 4808315,
+    "sha256": "604a0eb9f540bbb36b11f52fa6a739c99d693dd8cab6be9447134294bcf6e15c",
+    "duration_seconds": 200.07
+  },
+  {
+    "id": "tMWyuXFBNr0",
+    "category": "soviet",
+    "title": "Мы - армия народа",
+    "source_url": "https://www.youtube.com/watch?v=tMWyuXFBNr0",
+    "path": "music/soviet/tMWyuXFBNr0.mp3",
+    "bytes": 4038937,
+    "sha256": "b8e66fe97fedfb5d512c91353dc67ac206c571a8bb9c76f8b194b65c8ac7af7e",
+    "duration_seconds": 168.05
+  },
+  {
+    "id": "oXIXwZWMXdg",
+    "category": "soviet",
+    "title": "Калинка",
+    "source_url": "https://www.youtube.com/watch?v=oXIXwZWMXdg",
+    "path": "music/soviet/oXIXwZWMXdg.mp3",
+    "bytes": 6502094,
+    "sha256": "cb7b9b8f3903d8fef132f47a0c977b8d2cdbf82b5adeb8cffeb68b5531b30704",
+    "duration_seconds": 270.58
+  },
+  {
+    "id": "U-c9HW8SLTA",
+    "category": "soviet",
+    "title": "Чёрноглазая казачка",
+    "source_url": "https://www.youtube.com/watch?v=U-c9HW8SLTA",
+    "path": "music/soviet/U-c9HW8SLTA.mp3",
+    "bytes": 4606878,
+    "sha256": "7ae5e68c838929f276f0d1641249e351237ab4302cdd4a19a831858ca0c8aa5b",
+    "duration_seconds": 191.69
+  },
+  {
+    "id": "pSsQfCBRcpg",
+    "category": "soviet",
+    "title": "Марш Красных Кавалеристов",
+    "source_url": "https://www.youtube.com/watch?v=pSsQfCBRcpg",
+    "path": "music/soviet/pSsQfCBRcpg.mp3",
+    "bytes": 2399128,
+    "sha256": "debf16b3db20770735219f7c0bc1cf7df3b8ec5c5a3355b5f906a3ec305e75cf",
+    "duration_seconds": 99.79
+  },
+  {
+    "id": "Rc0WOYHReSA",
+    "category": "soviet",
+    "title": "Катюша",
+    "source_url": "https://www.youtube.com/watch?v=Rc0WOYHReSA",
+    "path": "music/soviet/Rc0WOYHReSA.mp3",
+    "bytes": 3356131,
+    "sha256": "c560457b01ee2f5098ec1f5ea0524ea1b82eda867037d7742fca3c1893c40f5b",
+    "duration_seconds": 139.62
+  },
+  {
+    "id": "2Yra7B4BDG0",
+    "category": "old_world_blues",
+    "title": "Winter Came Spring",
+    "source_url": "https://www.youtube.com/watch?v=2Yra7B4BDG0",
+    "path": "music/old_world_blues/2Yra7B4BDG0.mp3",
+    "bytes": 4373507,
+    "sha256": "10398f86ac3378422cda53f5ebfdc7f25f6d1b683ad89ea691bfa479372c0893",
+    "duration_seconds": 181.97
+  },
+  {
+    "id": "HsM_VmN6ytk",
+    "category": "old_world_blues",
+    "title": "Vera Lynn - We'll Meet Again",
+    "source_url": "https://www.youtube.com/watch?v=HsM_VmN6ytk",
+    "path": "music/old_world_blues/HsM_VmN6ytk.mp3",
+    "bytes": 4443700,
+    "sha256": "46661bd1e38214998eb2bf7c6b0d348c4b7b3d138db09c8bf4bfd71a84cf4d8c",
+    "duration_seconds": 184.89
+  },
+  {
+    "id": "q1FcyXJDBTI",
+    "category": "old_world_blues",
+    "title": "Dance Your Troubles Away",
+    "source_url": "https://www.youtube.com/watch?v=q1FcyXJDBTI",
+    "path": "music/old_world_blues/q1FcyXJDBTI.mp3",
+    "bytes": 5301681,
+    "sha256": "13ecd78af3ba8572a4458406c521b0dc2cfa4f1f6514c7462ee7a9642aa61727",
+    "duration_seconds": 220.6
+  },
+  {
+    "id": "2rwRgR3CvmQ",
+    "category": "old_world_blues",
+    "title": "Haus in neu-berlin",
+    "source_url": "https://www.youtube.com/watch?v=2rwRgR3CvmQ",
+    "path": "music/old_world_blues/2rwRgR3CvmQ.mp3",
+    "bytes": 3979970,
+    "sha256": "26ac50022502ef2edecc13c68475de06b55fc889f6f3384868c9ddbed1a93d5b",
+    "duration_seconds": 165.59
+  },
+  {
+    "id": "69RvmXyTyiw",
+    "category": "old_world_blues",
+    "title": "From Glen To Glen",
+    "source_url": "https://www.youtube.com/watch?v=69RvmXyTyiw",
+    "path": "music/old_world_blues/69RvmXyTyiw.mp3",
+    "bytes": 4615104,
+    "sha256": "f770b07ed75e8db55d874f938d7095b68739ce7a4e948601102110951c26a11d",
+    "duration_seconds": 192.03
+  },
+  {
+    "id": "WrpQ5nt8sJY",
+    "category": "old_world_blues",
+    "title": "Тёмная ночь",
+    "source_url": "https://www.youtube.com/watch?v=WrpQ5nt8sJY",
+    "path": "music/old_world_blues/WrpQ5nt8sJY.mp3",
+    "bytes": 4062808,
+    "sha256": "13f36ce17114909676200cbd2059b4ed2d32e7c97eca4051ca9474317e242abb",
+    "duration_seconds": 169.04
+  },
+  {
+    "id": "_-dd8XIgQJk",
+    "category": "old_world_blues",
+    "title": "Piero Piccioni - Arizona Dreaming",
+    "source_url": "https://www.youtube.com/watch?v=_-dd8XIgQJk",
+    "path": "music/old_world_blues/_-dd8XIgQJk.mp3",
+    "bytes": 1651068,
+    "sha256": "877d1fa53c32fbf6468a1c308a7a7081fe9fd356ad68b51f56a7e1053f006dce",
+    "duration_seconds": 68.65
+  },
+  {
+    "id": "eCVm4l1WFMs",
+    "category": "old_world_blues",
+    "title": "Бери шинель, пошли домой",
+    "source_url": "https://www.youtube.com/watch?v=eCVm4l1WFMs",
+    "path": "music/old_world_blues/eCVm4l1WFMs.mp3",
+    "bytes": 7270893,
+    "sha256": "369188c8273ccd6ffa94aeca16ea224caf70298afa9066d4cdd919f1e0ab61df",
+    "duration_seconds": 302.58
+  },
+  {
+    "id": "nVUHHW1tJYA",
+    "category": "old_world_blues",
+    "title": "Andrea Bocelli - Con Te Partirò",
+    "source_url": "https://www.youtube.com/watch?v=nVUHHW1tJYA",
+    "path": "music/old_world_blues/nVUHHW1tJYA.mp3",
+    "bytes": 5775443,
+    "sha256": "444b324e56f8368aafbbdd7a09f224f6c910acbefa7bbbe1b358d2c73773a8b8",
+    "duration_seconds": 240.33
+  },
+  {
+    "id": "KIYW8VxfZIA",
+    "category": "kino",
+    "title": "Кино - Пачка сигарет",
+    "source_url": "https://www.youtube.com/watch?v=KIYW8VxfZIA",
+    "path": "music/kino/KIYW8VxfZIA.mp3",
+    "bytes": 6325848,
+    "sha256": "894cacac0746f0c509b7c8bcf2516937340f3835109fc18d801a3bf41c37bc63",
+    "duration_seconds": 263.24
+  },
+  {
+    "id": "xznHixFfcvs",
+    "category": "kino",
+    "title": "Кино - Кончится лето",
+    "source_url": "https://www.youtube.com/watch?v=xznHixFfcvs",
+    "path": "music/kino/xznHixFfcvs.mp3",
+    "bytes": 8421907,
+    "sha256": "0a6f4fca0e8f6d80dbeb820fe60154605a4ebb341bc8616c2e7681f673a0976c",
+    "duration_seconds": 350.48
+  },
+  {
+    "id": "ASRPFiU849g",
+    "category": "kino",
+    "title": "Кино - Группа Крови",
+    "source_url": "https://www.youtube.com/watch?v=ASRPFiU849g",
+    "path": "music/kino/ASRPFiU849g.mp3",
+    "bytes": 6717414,
+    "sha256": "c285d4cab90ca01edc962885daf6f21b17a4b3f48f26973ae1641fe500969982",
+    "duration_seconds": 279.54
+  },
+  {
+    "id": "DiDUIfMk7go",
+    "category": "kino",
+    "title": "Кино - Спокойная ночь",
+    "source_url": "https://www.youtube.com/watch?v=DiDUIfMk7go",
+    "path": "music/kino/DiDUIfMk7go.mp3",
+    "bytes": 9199430,
+    "sha256": "220a46079577b872a93c7fde6cddd84b5426fa23dec8570b02b33657014f1550",
+    "duration_seconds": 382.85
+  },
+  {
+    "id": "YV1Bw0oTMsM",
+    "category": "kino",
+    "title": "Кино - Хочу перемен",
+    "source_url": "https://www.youtube.com/watch?v=YV1Bw0oTMsM",
+    "path": "music/kino/YV1Bw0oTMsM.mp3",
+    "bytes": 7108397,
+    "sha256": "a7e9ac5965e539ed010e580cedf3c6d54ee1c48665417038bafb16184ccf0f3f",
+    "duration_seconds": 295.81
+  },
+  {
+    "id": "YudaT5V7NBk",
+    "category": "kino",
+    "title": "Кино - Кукушка",
+    "source_url": "https://www.youtube.com/watch?v=YudaT5V7NBk",
+    "path": "music/kino/YudaT5V7NBk.mp3",
+    "bytes": 9437275,
+    "sha256": "54eff824040a2b2dc4e2d48b126845d8c041910d05bafeee2af5613b5dfce89c",
+    "duration_seconds": 392.75
+  },
+  {
+    "id": "m9Wc39NWqf8",
+    "category": "korean",
+    "title": "푸른하늘 - 눈물나는 날에는",
+    "source_url": "https://www.youtube.com/watch?v=m9Wc39NWqf8",
+    "path": "music/korean/m9Wc39NWqf8.mp3",
+    "bytes": 7454163,
+    "sha256": "a82352141cc7a21c67bbe9353e76ff3432b6f51f979371bf50aad5e40a5069c8",
+    "duration_seconds": 310.2
+  },
+  {
+    "id": "A-4dJU06sqY",
+    "category": "korean",
+    "title": "이광조 - 즐거운 인생",
+    "source_url": "https://www.youtube.com/watch?v=A-4dJU06sqY",
+    "path": "music/korean/A-4dJU06sqY.mp3",
+    "bytes": 5336179,
+    "sha256": "173dac0373bcd1a9ca4d5e48498d9e5ac4e19028ddcca6aa98c185ddca6f8cab",
+    "duration_seconds": 222.04
+  },
+  {
+    "id": "ScinWnR8kIM",
+    "category": "korean",
+    "title": "나미 NAMI - 가까이 하고 싶은 그대",
+    "source_url": "https://www.youtube.com/watch?v=ScinWnR8kIM",
+    "path": "music/korean/ScinWnR8kIM.mp3",
+    "bytes": 5133459,
+    "sha256": "6bf50fc8ac4a3518b883ced3ace54dfb81f764c175ed4ef68a0e8890b22ddd9d",
+    "duration_seconds": 213.6
+  },
+  {
+    "id": "f8wIKYMEaiI",
+    "category": "korean",
+    "title": "양수경 Yang Soo-Kyung - 그대의 의미",
+    "source_url": "https://www.youtube.com/watch?v=f8wIKYMEaiI",
+    "path": "music/korean/f8wIKYMEaiI.mp3",
+    "bytes": 6393600,
+    "sha256": "101bbe278c6c857f02a9ef25aa620f17f490edaa92a467dc2ed9d6ed6ba4fd2e",
+    "duration_seconds": 266.06
+  },
+  {
+    "id": "EHA_nJBZZXk",
+    "category": "korean",
+    "title": "박성신 Park Sung-Sin - 향기로운 그대여",
+    "source_url": "https://www.youtube.com/watch?v=EHA_nJBZZXk",
+    "path": "music/korean/EHA_nJBZZXk.mp3",
+    "bytes": 4584384,
+    "sha256": "3587bbd27c2ee3e01919ad044383fb92cfbb502a55d960f9f883cd916d5a64d2",
+    "duration_seconds": 190.75
+  },
+  {
+    "id": "rSK8jTzl1Kw",
+    "category": "rollin_hood",
+    "title": "No Vaseline",
+    "source_url": "https://www.youtube.com/watch?v=rSK8jTzl1Kw",
+    "path": "music/rollin_hood/rSK8jTzl1Kw.mp3",
+    "bytes": 7535072,
+    "sha256": "8217161e479696515dae384050aeea2f48887d299ba8eda80c48a6c2687043a2",
+    "duration_seconds": 313.57
+  },
+  {
+    "id": "_CL6n0FJZpk",
+    "category": "rollin_hood",
+    "title": "Dr. Dre - Still D.R.E. ft. Snoop Dogg",
+    "source_url": "https://www.youtube.com/watch?v=_CL6n0FJZpk",
+    "path": "music/rollin_hood/_CL6n0FJZpk.mp3",
+    "bytes": 6972798,
+    "sha256": "2cc1cd37adaf04f73dcfaa258cc7df1da171209f599ab488f00593e4c64c4d13",
+    "duration_seconds": 290.17
+  },
+  {
+    "id": "dA-pFsAxJR4",
+    "category": "rollin_hood",
+    "title": "Fuck Tha Police",
+    "source_url": "https://www.youtube.com/watch?v=dA-pFsAxJR4",
+    "path": "music/rollin_hood/dA-pFsAxJR4.mp3",
+    "bytes": 8251756,
+    "sha256": "95e93b3940d324cb388ce74bf6512850917e033c2668a8d6901c10005f97210f",
+    "duration_seconds": 343.41
+  },
+  {
+    "id": "7DXlY8LhWnI",
+    "category": "rollin_hood",
+    "title": "Gangsta's Paradise",
+    "source_url": "https://www.youtube.com/watch?v=7DXlY8LhWnI",
+    "path": "music/rollin_hood/7DXlY8LhWnI.mp3",
+    "bytes": 5814921,
+    "sha256": "b53df232eb8e4ec4eabccdda1ffae0be6aab78404ee1795392edba081d7a2fdb",
+    "duration_seconds": 241.97
+  },
+  {
+    "id": "h4UqMyldS7Q",
+    "category": "rollin_hood",
+    "title": "Ice Cube - It Was A Good Day",
+    "source_url": "https://www.youtube.com/watch?v=h4UqMyldS7Q",
+    "path": "music/rollin_hood/h4UqMyldS7Q.mp3",
+    "bytes": 7362508,
+    "sha256": "08a9b2495a5975c05b8818b92fec4e76b57572fe721c1de76f9d7b2098db7934",
+    "duration_seconds": 306.39
+  },
+  {
+    "id": "rzRqEWJYwX4",
+    "category": "rollin_hood",
+    "title": "Ice Cube - You Know How We Do It",
+    "source_url": "https://www.youtube.com/watch?v=rzRqEWJYwX4",
+    "path": "music/rollin_hood/rzRqEWJYwX4.mp3",
+    "bytes": 5473539,
+    "sha256": "b8b76b10159f61151e223185d1bfcb40a6d145b96a539551e9db1705193e29f9",
+    "duration_seconds": 227.76
+  },
+  {
+    "id": "hOHKltAiKXQ",
+    "category": "rollin_hood",
+    "title": "Hanumankind, Kalmi - Hanumankind – Big Dawgs",
+    "source_url": "https://www.youtube.com/watch?v=hOHKltAiKXQ",
+    "path": "music/rollin_hood/hOHKltAiKXQ.mp3",
+    "bytes": 5639912,
+    "sha256": "f089c220186b088339284f2e9ab42f316b70c92de511f472190eb3b78105b5ba",
+    "duration_seconds": 234.68
   }
 ]
