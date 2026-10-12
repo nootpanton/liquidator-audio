@@ -2,7 +2,7 @@
 
 Private audio storage for the Liquidator RP server.
 
-177 tracks in 25 categories.
+187 tracks in 26 categories.
 
 Repository URLs require authentication; do not distribute credentials to clients.
 
@@ -13,7 +13,7 @@ Repository URLs require authentication; do not distribute credentials to clients
 | 포가튼/미스터리 (Forgotten) | 4 | [M3U8](music/forgotten/playlist.m3u8) |
 | 올드팝 (Old Pop) | 15 | [M3U8](music/oldpop/playlist.m3u8) |
 | 두머/포스트펑크 (Doomer) | 18 | [M3U8](music/doomer/playlist.m3u8) |
-| 연합 클래식/교향곡 (Union) | 17 | [M3U8](music/union/playlist.m3u8) |
+| 연합 클래식/교향곡 (Union) | 23 | [M3U8](music/union/playlist.m3u8) |
 | The Liquidator | 5 | [M3U8](music/the_liquidator/playlist.m3u8) |
 | Cruel world we live in | 8 | [M3U8](music/cruel_world/playlist.m3u8) |
 | Only You Survived | 8 | [M3U8](music/only_you_survived/playlist.m3u8) |
@@ -33,6 +33,7 @@ Repository URLs require authentication; do not distribute credentials to clients
 | Kino | 6 | [M3U8](music/kino/playlist.m3u8) |
 | Korean | 5 | [M3U8](music/korean/playlist.m3u8) |
 | rollin' hood | 7 | [M3U8](music/rollin_hood/playlist.m3u8) |
+| Orthodox Church | 4 | [M3U8](music/orthodox_church/playlist.m3u8) |
 
 ## Tracks
 
@@ -215,3 +216,13 @@ Repository URLs require authentication; do not distribute credentials to clients
 | rollin' hood | Ice Cube - It Was A Good Day | [h4UqMyldS7Q](music/rollin_hood/h4UqMyldS7Q.mp3) |
 | rollin' hood | Ice Cube - You Know How We Do It | [rzRqEWJYwX4](music/rollin_hood/rzRqEWJYwX4.mp3) |
 | rollin' hood | Hanumankind, Kalmi - Hanumankind – Big Dawgs | [hOHKltAiKXQ](music/rollin_hood/hOHKltAiKXQ.mp3) |
+| Orthodox Church | Great Litany of supplication | [FGzNA_kWg_M](music/orthodox_church/FGzNA_kWg_M.mp3) |
+| Orthodox Church | Trisagion Russian Orthodox Chant | [6Dhtwu620fc](music/orthodox_church/6Dhtwu620fc.mp3) |
+| Orthodox Church | Hymn of the Cherubim | [KhbuNZ8p3hg](music/orthodox_church/KhbuNZ8p3hg.mp3) |
+| Orthodox Church | Cherubic Hymn | [7Cg-TyfX6U4](music/orthodox_church/7Cg-TyfX6U4.mp3) |
+| 연합 클래식/교향곡 (Union) | Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 1 | [tUKPPRN-Y00](music/union/tUKPPRN-Y00.mp3) |
+| 연합 클래식/교향곡 (Union) | Niccolò Paganini - Violin Concerto No. 2 in B minor, Op. 7: 3. Rondo à la clochette | [-hOZ7xZpwFk](music/union/-hOZ7xZpwFk.mp3) |
+| 연합 클래식/교향곡 (Union) | Niccolò Paganini - La Campanella | [DLWarJWn5-o](music/union/DLWarJWn5-o.mp3) |
+| 연합 클래식/교향곡 (Union) | Bach (바흐) - Air On The G String (G선상의 아리아) | [qEYrpKW2yzo](music/union/qEYrpKW2yzo.mp3) |
+| 연합 클래식/교향곡 (Union) | Sir James Galway - Sicilienne | [bIfzqpPfX1Q](music/union/bIfzqpPfX1Q.mp3) |
+| 연합 클래식/교향곡 (Union) | Bach - Cello Suite No. 1 in G Major BWV1007 - Mov. 1-3/6 | [DwHpDOWhkGk](music/union/DwHpDOWhkGk.mp3) |

@@ -1873,5 +1873,105 @@
     "bytes": 5639912,
     "sha256": "f089c220186b088339284f2e9ab42f316b70c92de511f472190eb3b78105b5ba",
     "duration_seconds": 234.68
+  },
+  {
+    "id": "FGzNA_kWg_M",
+    "category": "orthodox_church",
+    "title": "Great Litany of supplication",
+    "source_url": "https://www.youtube.com/watch?v=FGzNA_kWg_M",
+    "path": "music/orthodox_church/FGzNA_kWg_M.mp3",
+    "bytes": 5683206,
+    "sha256": "9f1c1ce74eca7fd5b1092ee6fc8bf361b7e453391e7dfc25eaf7bbde187d952d",
+    "duration_seconds": 236.49
+  },
+  {
+    "id": "6Dhtwu620fc",
+    "category": "orthodox_church",
+    "title": "Trisagion Russian Orthodox Chant",
+    "source_url": "https://www.youtube.com/watch?v=6Dhtwu620fc",
+    "path": "music/orthodox_church/6Dhtwu620fc.mp3",
+    "bytes": 2177579,
+    "sha256": "a330f58f77c128d1c8822b090da8d2e913e93b7bbe1dc9c04abf8bd11cbc8654",
+    "duration_seconds": 90.57
+  },
+  {
+    "id": "KhbuNZ8p3hg",
+    "category": "orthodox_church",
+    "title": "Hymn of the Cherubim",
+    "source_url": "https://www.youtube.com/watch?v=KhbuNZ8p3hg",
+    "path": "music/orthodox_church/KhbuNZ8p3hg.mp3",
+    "bytes": 10863703,
+    "sha256": "5ffbd83b3202101f971d1f109e14580f921ce5b50ae505006830c37a5a486660",
+    "duration_seconds": 452.13
+  },
+  {
+    "id": "7Cg-TyfX6U4",
+    "category": "orthodox_church",
+    "title": "Cherubic Hymn",
+    "source_url": "https://www.youtube.com/watch?v=7Cg-TyfX6U4",
+    "path": "music/orthodox_church/7Cg-TyfX6U4.mp3",
+    "bytes": 11984565,
+    "sha256": "1ce744d06097a61271299cbab6197cebf339b2547c58236e808aa99e8879a99e",
+    "duration_seconds": 498.78
+  },
+  {
+    "id": "tUKPPRN-Y00",
+    "category": "union",
+    "title": "Niccolò Paganini - Caprice for Solo Violin, Op. 1 No. 1",
+    "source_url": "https://www.youtube.com/watch?v=tUKPPRN-Y00",
+    "path": "music/union/tUKPPRN-Y00.mp3",
+    "bytes": 2561045,
+    "sha256": "a2ed6068494f3efec33b55bc80f6fa6f63b3d21a0115c2783a8e874b354735be",
+    "duration_seconds": 106.53
+  },
+  {
+    "id": "-hOZ7xZpwFk",
+    "category": "union",
+    "title": "Niccolò Paganini - Violin Concerto No. 2 in B minor, Op. 7: 3. Rondo à la clochette",
+    "source_url": "https://www.youtube.com/watch?v=-hOZ7xZpwFk",
+    "path": "music/union/-hOZ7xZpwFk.mp3",
+    "bytes": 11974553,
+    "sha256": "f3949953aeaadc9070869d681148440696980a0ff7a19cc59760185af2b72591",
+    "duration_seconds": 498.36
+  },
+  {
+    "id": "DLWarJWn5-o",
+    "category": "union",
+    "title": "Niccolò Paganini - La Campanella",
+    "source_url": "https://www.youtube.com/watch?v=DLWarJWn5-o",
+    "path": "music/union/DLWarJWn5-o.mp3",
+    "bytes": 7766645,
+    "sha256": "d98360a68a81b91dffb5571881bb8210f287f692b12ba2ef4e5d10658177c70a",
+    "duration_seconds": 323.21
+  },
+  {
+    "id": "qEYrpKW2yzo",
+    "category": "union",
+    "title": "Bach (바흐) - Air On The G String (G선상의 아리아)",
+    "source_url": "https://www.youtube.com/watch?v=qEYrpKW2yzo",
+    "path": "music/union/qEYrpKW2yzo.mp3",
+    "bytes": 7954960,
+    "sha256": "b0ace7779a3ec1920fff238a776db0484929c16c2cddb9a0e95b83a1cd6adbde",
+    "duration_seconds": 331.05
+  },
+  {
+    "id": "bIfzqpPfX1Q",
+    "category": "union",
+    "title": "Sir James Galway - Sicilienne",
+    "source_url": "https://www.youtube.com/watch?v=bIfzqpPfX1Q",
+    "path": "music/union/bIfzqpPfX1Q.mp3",
+    "bytes": 5757804,
+    "sha256": "053c7897e79043b25f94b19548f9611f81e2302212302638de07d24df1c4433d",
+    "duration_seconds": 239.6
+  },
+  {
+    "id": "DwHpDOWhkGk",
+    "category": "union",
+    "title": "Bach - Cello Suite No. 1 in G Major BWV1007 - Mov. 1-3/6",
+    "source_url": "https://www.youtube.com/watch?v=DwHpDOWhkGk",
+    "path": "music/union/DwHpDOWhkGk.mp3",
+    "bytes": 13641331,
+    "sha256": "7960036b40e96afb14fd8d605d2f083218204380338f466ee57940e61236088b",
+    "duration_seconds": 567.75
   }
 ]
