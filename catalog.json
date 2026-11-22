@@ -1973,5 +1973,485 @@
     "bytes": 13641331,
     "sha256": "7960036b40e96afb14fd8d605d2f083218204380338f466ee57940e61236088b",
     "duration_seconds": 567.75
+  },
+  {
+    "id": "Du1QRtcnMxM",
+    "category": "the_liquidator",
+    "title": "Zack Hemsey - Facing Demons",
+    "source_url": "https://www.youtube.com/watch?v=Du1QRtcnMxM",
+    "path": "music/the_liquidator/Du1QRtcnMxM.mp3",
+    "duration_seconds": 159.96,
+    "bytes": 3840813,
+    "sha256": "91d11cfa527c70da24b5f81ef25b8da05cc376a31d820b9633a5d1faddbdd70f"
+  },
+  {
+    "id": "Lhv_yFMuwxs",
+    "category": "the_liquidator",
+    "title": "Zack Hemsey - Vengeance",
+    "source_url": "https://www.youtube.com/watch?v=Lhv_yFMuwxs",
+    "path": "music/the_liquidator/Lhv_yFMuwxs.mp3",
+    "duration_seconds": 393.35,
+    "bytes": 9441837,
+    "sha256": "dd0ab8aba6126e1b29f284afbcff17d29163d3e5416093ef4af49eed4ce9f4c3"
+  },
+  {
+    "id": "xkEj-IqMy2s",
+    "category": "the_liquidator",
+    "title": "Radio (Entropy : Zero - Uprising OST)",
+    "source_url": "https://www.youtube.com/watch?v=xkEj-IqMy2s",
+    "path": "music/the_liquidator/xkEj-IqMy2s.mp3",
+    "duration_seconds": 152.02,
+    "bytes": 3650157,
+    "sha256": "f9a8c7b68ae7a6f4e41474a889f158d74b6efb52e761e81df1f46269acbad529"
+  },
+  {
+    "id": "geHKKSHzk00",
+    "category": "futuredreams",
+    "title": "Arknights - Dormant Craving",
+    "source_url": "https://www.youtube.com/watch?v=geHKKSHzk00",
+    "path": "music/futuredreams/geHKKSHzk00.mp3",
+    "duration_seconds": 218.85,
+    "bytes": 5253741,
+    "sha256": "bd037e5ff45d8416c73e20ae1f1100c6bd0af84ec0ded2b61aaa710aab1913dd"
+  },
+  {
+    "id": "QwVjTlTdIDQ",
+    "category": "oldpop",
+    "title": "Billy Joel - Piano Man",
+    "source_url": "https://www.youtube.com/watch?v=QwVjTlTdIDQ",
+    "path": "music/oldpop/QwVjTlTdIDQ.mp3",
+    "duration_seconds": 339.96,
+    "bytes": 8160813,
+    "sha256": "2c039e4534e749dbeff7b83b75f69abd1c35f9bff4e784d45c0c92371fbd3e61"
+  },
+  {
+    "id": "KYwA5k00p2I",
+    "category": "oldpop",
+    "title": "Grover Washington, Jr. - Just the Two of Us",
+    "source_url": "https://www.youtube.com/watch?v=KYwA5k00p2I",
+    "path": "music/oldpop/KYwA5k00p2I.mp3",
+    "duration_seconds": 237.37,
+    "bytes": 5698413,
+    "sha256": "ebb7971476ff2bdca1d0ced2030c4c13307f1b80f3a09a594514e9fd06746b9d"
+  },
+  {
+    "id": "Ye9hGotPPVk",
+    "category": "oldpop",
+    "title": "Elton John - I'm Still Standing",
+    "source_url": "https://www.youtube.com/watch?v=Ye9hGotPPVk",
+    "path": "music/oldpop/Ye9hGotPPVk.mp3",
+    "duration_seconds": 183.44,
+    "bytes": 4404141,
+    "sha256": "a245f68f99442fc7850b9866bff0905cb5812dcc6322c31e4b0a40f86cc93a2f"
+  },
+  {
+    "id": "OBM0DO8Xt1c",
+    "category": "oldpop",
+    "title": "Earth, Wind & Fire - September",
+    "source_url": "https://www.youtube.com/watch?v=OBM0DO8Xt1c",
+    "path": "music/oldpop/OBM0DO8Xt1c.mp3",
+    "duration_seconds": 216.02,
+    "bytes": 5185773,
+    "sha256": "924c679d02db507881b52b86a313c1dcbca2d0c0a5d7b669aa2f1edee87aae3e"
+  },
+  {
+    "id": "rsf_gTZG4cI",
+    "category": "oldpop",
+    "title": "Redbone - Come and Get Your Love",
+    "source_url": "https://www.youtube.com/watch?v=rsf_gTZG4cI",
+    "path": "music/oldpop/rsf_gTZG4cI.mp3",
+    "duration_seconds": 205.93,
+    "bytes": 4943853,
+    "sha256": "d2e007f368bb3dbb560378111d48037784bf8c27b308750880635a157a37f473"
+  },
+  {
+    "id": "SrnWp5O0DEs",
+    "category": "oldpop",
+    "title": "Hit the Road Jack",
+    "source_url": "https://www.youtube.com/watch?v=SrnWp5O0DEs",
+    "path": "music/oldpop/SrnWp5O0DEs.mp3",
+    "duration_seconds": 118.2,
+    "bytes": 2837997,
+    "sha256": "f2843a9b9eaf0876f0b54b0b7f524cf6730057112c119842bf331ba696f2d40e"
+  },
+  {
+    "id": "WnrE0yN2uLY",
+    "category": "oldpop",
+    "title": "Gloria Gaynor - I Will Survive",
+    "source_url": "https://www.youtube.com/watch?v=WnrE0yN2uLY",
+    "path": "music/oldpop/WnrE0yN2uLY.mp3",
+    "duration_seconds": 250.89,
+    "bytes": 6022701,
+    "sha256": "e15fda4a9c364ec96342186dfad3d14a70d616996453607f306f462250f496f7"
+  },
+  {
+    "id": "pIgZ7gMze7A",
+    "category": "oldpop",
+    "title": "Wham! - Wake Me Up Before You Go-Go",
+    "source_url": "https://www.youtube.com/watch?v=pIgZ7gMze7A",
+    "path": "music/oldpop/pIgZ7gMze7A.mp3",
+    "duration_seconds": 233.13,
+    "bytes": 5596461,
+    "sha256": "4f2b3a8de59fa135591e785b081e8173f85a09d4096963e840306166a60af170"
+  },
+  {
+    "id": "unfzfe8f9NI",
+    "category": "oldpop",
+    "title": "ABBA - Mamma Mia",
+    "source_url": "https://www.youtube.com/watch?v=unfzfe8f9NI",
+    "path": "music/oldpop/unfzfe8f9NI.mp3",
+    "duration_seconds": 210.08,
+    "bytes": 5043501,
+    "sha256": "ae840586f09832d6eefc992e9267a44d188028cfc6d94bd58b7621f864bd0dc5"
+  },
+  {
+    "id": "16y1AkoZkmQ",
+    "category": "oldpop",
+    "title": "Boney M. - Rasputin",
+    "source_url": "https://www.youtube.com/watch?v=16y1AkoZkmQ",
+    "path": "music/oldpop/16y1AkoZkmQ.mp3",
+    "duration_seconds": 269.41,
+    "bytes": 6467373,
+    "sha256": "f5d169f89c3957ce4f369cf72e6dcf57b4828363a9d07cc460cf3e9a85a18c69"
+  },
+  {
+    "id": "XEjLoHdbVeE",
+    "category": "oldpop",
+    "title": "ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "source_url": "https://www.youtube.com/watch?v=XEjLoHdbVeE",
+    "path": "music/oldpop/XEjLoHdbVeE.mp3",
+    "duration_seconds": 196.37,
+    "bytes": 4714605,
+    "sha256": "00472434029f9cce15d6c7cb8e862b248ed2cf4ebba15c49ed4036543560eb93"
+  },
+  {
+    "id": "qeMFqkcPYcg",
+    "category": "oldpop",
+    "title": "Eurythmics - Sweet Dreams (Are Made Of This)",
+    "source_url": "https://www.youtube.com/watch?v=qeMFqkcPYcg",
+    "path": "music/oldpop/qeMFqkcPYcg.mp3",
+    "duration_seconds": 214.01,
+    "bytes": 5137389,
+    "sha256": "7cb58b3e02489804c8ac3446ba552c46ae959fc6612a65d9db3586ebc21dd33e"
+  },
+  {
+    "id": "I_izvAbhExY",
+    "category": "oldpop",
+    "title": "Bee Gees - Stayin' Alive",
+    "source_url": "https://www.youtube.com/watch?v=I_izvAbhExY",
+    "path": "music/oldpop/I_izvAbhExY.mp3",
+    "duration_seconds": 249.51,
+    "bytes": 5989869,
+    "sha256": "75203c4a846738f1cbbeb695527ab8edb156cfe229968b5a6851437e52820856"
+  },
+  {
+    "id": "NlwIDxCjL-8",
+    "category": "oldpop",
+    "title": "Sting - Shape of My Heart",
+    "source_url": "https://www.youtube.com/watch?v=NlwIDxCjL-8",
+    "path": "music/oldpop/NlwIDxCjL-8.mp3",
+    "duration_seconds": 280.78,
+    "bytes": 6739821,
+    "sha256": "95786e21fc2d7d7a1134b9b421336d598f55c0ea3ae981753024c7a716dee4fe"
+  },
+  {
+    "id": "4F_RCWVoL4s",
+    "category": "oldpop",
+    "title": "Neil Diamond - Sweet Caroline",
+    "source_url": "https://www.youtube.com/watch?v=4F_RCWVoL4s",
+    "path": "music/oldpop/4F_RCWVoL4s.mp3",
+    "duration_seconds": 200.33,
+    "bytes": 4809645,
+    "sha256": "f3a51dbbc77556b16224f87c2cca95d8f4bd01dfdeffa8cd2e9683c4797c8668"
+  },
+  {
+    "id": "yiHo8LtLCGc",
+    "category": "oldpop",
+    "title": "Elvis Presley - Can't Help Falling in Love",
+    "source_url": "https://www.youtube.com/watch?v=yiHo8LtLCGc",
+    "path": "music/oldpop/yiHo8LtLCGc.mp3",
+    "duration_seconds": 180.56,
+    "bytes": 4335021,
+    "sha256": "73a074ab1f43a0dba5fb367a7bbea7fedec340e71bb8ba0cc1fc9572b8bb1dff"
+  },
+  {
+    "id": "4ujBQOzs6Lw",
+    "category": "20s",
+    "title": "Adele - Rolling in the Deep",
+    "source_url": "https://www.youtube.com/watch?v=4ujBQOzs6Lw",
+    "path": "music/20s/4ujBQOzs6Lw.mp3",
+    "duration_seconds": 228.09,
+    "bytes": 5475501,
+    "sha256": "36cc2d31820724fa3c38ce924a27f91a39cc61418fd21f5c5c4e1b50a738130e"
+  },
+  {
+    "id": "7maJOI3QMu0",
+    "category": "cafe",
+    "title": "Yiruma - River Flows in You",
+    "source_url": "https://www.youtube.com/watch?v=7maJOI3QMu0",
+    "path": "music/cafe/7maJOI3QMu0.mp3",
+    "duration_seconds": 209.58,
+    "bytes": 5031405,
+    "sha256": "33e6817aafd3d719aeaa73fa2fe1e8de52bfe17346b9680f773b1d08423331e6"
+  },
+  {
+    "id": "l0GN40EL1VU",
+    "category": "cafe",
+    "title": "Joe Hisaishi - Summer",
+    "source_url": "https://www.youtube.com/watch?v=l0GN40EL1VU",
+    "path": "music/cafe/l0GN40EL1VU.mp3",
+    "duration_seconds": 242.04,
+    "bytes": 5810733,
+    "sha256": "60dcf6c318c1bc80ae2a04788207afdfb402e440772c2cacccb7c674337e50f4"
+  },
+  {
+    "id": "GXFSK0ogeg4",
+    "category": "rebels",
+    "title": "Carl Orff - O Fortuna (Carmina Burana)",
+    "source_url": "https://www.youtube.com/watch?v=GXFSK0ogeg4",
+    "path": "music/rebels/GXFSK0ogeg4.mp3",
+    "duration_seconds": 321.16,
+    "bytes": 7709229,
+    "sha256": "0c4dbbffea2756dbbd9ff7b5ace8ac0f7f84f47a6bf4200c467b6be72dac4be0"
+  },
+  {
+    "id": "CUGMZlvrR4c",
+    "category": "rebels",
+    "title": "Verdi - Requiem: Dies Irae",
+    "source_url": "https://www.youtube.com/watch?v=CUGMZlvrR4c",
+    "path": "music/rebels/CUGMZlvrR4c.mp3",
+    "duration_seconds": 134.8,
+    "bytes": 3236589,
+    "sha256": "0d4a2d4cbd23512766fea643fd895a88f53728136f4eb472eebdd95917a55455"
+  },
+  {
+    "id": "uqs9a2Cxv5c",
+    "category": "rebels",
+    "title": "Beethoven - Symphony No. 9: Ode to Joy",
+    "source_url": "https://www.youtube.com/watch?v=uqs9a2Cxv5c",
+    "path": "music/rebels/uqs9a2Cxv5c.mp3",
+    "duration_seconds": 374.17,
+    "bytes": 8981613,
+    "sha256": "8894a5a580a980a9cbd0bfdf61b7a2f98d57930e3489bbe4dd85ae82373684aa"
+  },
+  {
+    "id": "gkwgZjNUDkk",
+    "category": "rebels",
+    "title": "Mozart - Requiem: Lacrimosa",
+    "source_url": "https://www.youtube.com/watch?v=gkwgZjNUDkk",
+    "path": "music/rebels/gkwgZjNUDkk.mp3",
+    "duration_seconds": 200.66,
+    "bytes": 4817133,
+    "sha256": "f56d158015b46ea0b161557263e1b5bdb4f4f5de9270feca4a5ad8e3915e17d3"
+  },
+  {
+    "id": "ENwUp6po3M4",
+    "category": "rebels",
+    "title": "Mozart - Requiem: Confutatis",
+    "source_url": "https://www.youtube.com/watch?v=ENwUp6po3M4",
+    "path": "music/rebels/ENwUp6po3M4.mp3",
+    "duration_seconds": 137.51,
+    "bytes": 3301677,
+    "sha256": "1fb033846f8e268d52b241fc3f5559b3853cf01fc75e1a71f6989158c128a849"
+  },
+  {
+    "id": "usfiAsWR4qU",
+    "category": "union",
+    "title": "Handel - Messiah: Hallelujah Chorus",
+    "source_url": "https://www.youtube.com/watch?v=usfiAsWR4qU",
+    "path": "music/union/usfiAsWR4qU.mp3",
+    "duration_seconds": 241.13,
+    "bytes": 5788269,
+    "sha256": "2b03ac5fe7cfdcb91d0a84b258529977284a33e473a014ceae5f21d8942dc189"
+  },
+  {
+    "id": "ZV7gLWo2pO0",
+    "category": "union",
+    "title": "Mozart - Great Mass in C Minor: Kyrie",
+    "source_url": "https://www.youtube.com/watch?v=ZV7gLWo2pO0",
+    "path": "music/union/ZV7gLWo2pO0.mp3",
+    "duration_seconds": 469.69,
+    "bytes": 11274093,
+    "sha256": "ebb1ee219ac581f99effca3e07fce18aa9c2ffa672b76f81001ac22f7bfc7197"
+  },
+  {
+    "id": "TMCpjUg411s",
+    "category": "union",
+    "title": "Bach - Mass in B Minor: Kyrie eleison",
+    "source_url": "https://www.youtube.com/watch?v=TMCpjUg411s",
+    "path": "music/union/TMCpjUg411s.mp3",
+    "duration_seconds": 568.17,
+    "bytes": 13637421,
+    "sha256": "67558218098de3d33565a64ef79c1bbc3bd0b48e5d559e9788b3aace35615582"
+  },
+  {
+    "id": "BNuukn4_v58",
+    "category": "union",
+    "title": "Vivaldi - Gloria: Gloria in excelsis Deo",
+    "source_url": "https://www.youtube.com/watch?v=BNuukn4_v58",
+    "path": "music/union/BNuukn4_v58.mp3",
+    "duration_seconds": 143.64,
+    "bytes": 3448557,
+    "sha256": "65e95e588c4850cc56c4f850f245ef52e45d13c11c0b54fa48ab4304e5fa78ba"
+  },
+  {
+    "id": "f9dHhzTFlVU",
+    "category": "union",
+    "title": "Mozart - Ave verum corpus",
+    "source_url": "https://www.youtube.com/watch?v=f9dHhzTFlVU",
+    "path": "music/union/f9dHhzTFlVU.mp3",
+    "duration_seconds": 206.89,
+    "bytes": 4966893,
+    "sha256": "9ff8e1d3c5afc9f52be96341a80c06bbb3ebfe598522bbeda47f87e91593254f"
+  },
+  {
+    "id": "_CTYymbbEL4",
+    "category": "union",
+    "title": "Johann Strauss II - The Blue Danube",
+    "source_url": "https://www.youtube.com/watch?v=_CTYymbbEL4",
+    "path": "music/union/_CTYymbbEL4.mp3",
+    "duration_seconds": 660.0,
+    "bytes": 15841773,
+    "sha256": "3909de37d1fc30469cd9c112207a55e03330a98f03cf86a0302923b90ce09777"
+  },
+  {
+    "id": "2Sb8WCPjPDs",
+    "category": "union",
+    "title": "Tchaikovsky - Sleeping Beauty Waltz",
+    "source_url": "https://www.youtube.com/watch?v=2Sb8WCPjPDs",
+    "path": "music/union/2Sb8WCPjPDs.mp3",
+    "duration_seconds": 265.09,
+    "bytes": 6363693,
+    "sha256": "f8ac634390289349606c5d14f0762ffa1c7c6ba80a5644fc15fcf767b04a3829"
+  },
+  {
+    "id": "oy2zDJPIgwc",
+    "category": "union",
+    "title": "Mozart - Eine Kleine Nachtmusik",
+    "source_url": "https://www.youtube.com/watch?v=oy2zDJPIgwc",
+    "path": "music/union/oy2zDJPIgwc.mp3",
+    "duration_seconds": 347.56,
+    "bytes": 8342829,
+    "sha256": "11bb2e77b4a06c86de44674a581288991ebc4ab8e900813396798b9029cb74b0"
+  },
+  {
+    "id": "pH38vauG-BM",
+    "category": "union",
+    "title": "Handel - Water Music: Alla Hornpipe",
+    "source_url": "https://www.youtube.com/watch?v=pH38vauG-BM",
+    "path": "music/union/pH38vauG-BM.mp3",
+    "duration_seconds": 245.07,
+    "bytes": 5883309,
+    "sha256": "d6cb064759c2bdc486a17d1c7917fedd4121538d8f617f31cb24385c42a9a9f5"
+  },
+  {
+    "id": "qGIM5HdnY4g",
+    "category": "union",
+    "title": "Elgar - Pomp and Circumstance March No. 1",
+    "source_url": "https://www.youtube.com/watch?v=qGIM5HdnY4g",
+    "path": "music/union/qGIM5HdnY4g.mp3",
+    "duration_seconds": 401.29,
+    "bytes": 9632493,
+    "sha256": "92cc0e3259f58b779fd38e02feb60e43760df2740347e284dad7b2b51a94b087"
+  },
+  {
+    "id": "vCHREyE5GzQ",
+    "category": "union",
+    "title": "Beethoven - Symphony No. 7: II. Allegretto",
+    "source_url": "https://www.youtube.com/watch?v=vCHREyE5GzQ",
+    "path": "music/union/vCHREyE5GzQ.mp3",
+    "duration_seconds": 526.32,
+    "bytes": 12632877,
+    "sha256": "4df3e98676941269f76776ef5aa33d8845bdd51231bd431dd917a17a6930b7a5"
+  },
+  {
+    "id": "RDAjLjvequ4",
+    "category": "union",
+    "title": "Mozart - Symphony No. 40: I. Molto allegro",
+    "source_url": "https://www.youtube.com/watch?v=RDAjLjvequ4",
+    "path": "music/union/RDAjLjvequ4.mp3",
+    "duration_seconds": 441.97,
+    "bytes": 10608813,
+    "sha256": "2d50314dd8d5a2a871600d80f41f79ccf440b050863da0e29555eaff145d1263"
+  },
+  {
+    "id": "SHK95KzvtFE",
+    "category": "union",
+    "title": "Brahms - Symphony No. 1: I. Un poco sostenuto - Allegro",
+    "source_url": "https://www.youtube.com/watch?v=SHK95KzvtFE",
+    "path": "music/union/SHK95KzvtFE.mp3",
+    "duration_seconds": 855.44,
+    "bytes": 20532141,
+    "sha256": "e2054d4c5d8c2d6cd491fc0f3827f031e9df4e81f51cd8b0864dbd61dcfbe11c"
+  },
+  {
+    "id": "BZHhkv5umMA",
+    "category": "union",
+    "title": "Tchaikovsky - Symphony No. 6 \"Pathetique\": IV. Finale",
+    "source_url": "https://www.youtube.com/watch?v=BZHhkv5umMA",
+    "path": "music/union/BZHhkv5umMA.mp3",
+    "duration_seconds": 592.93,
+    "bytes": 14231853,
+    "sha256": "eeb50cf4480c617d4eba2c980ed333a72e6a2c9e67abebb28f771c44cef52e85"
+  },
+  {
+    "id": "1arWBobQ63s",
+    "category": "union",
+    "title": "Rachmaninoff - Prelude in C-sharp minor, Op. 3 No. 2",
+    "source_url": "https://www.youtube.com/watch?v=1arWBobQ63s",
+    "path": "music/union/1arWBobQ63s.mp3",
+    "duration_seconds": 309.6,
+    "bytes": 7431597,
+    "sha256": "b25fdfd492cf5d38b1cd87581eb639381dad8ee48c9fe8657174848a3b4a6872"
+  },
+  {
+    "id": "EetawUz3I64",
+    "category": "union",
+    "title": "Chopin - Piano Sonata No. 2: III. Marche funebre",
+    "source_url": "https://www.youtube.com/watch?v=EetawUz3I64",
+    "path": "music/union/EetawUz3I64.mp3",
+    "duration_seconds": 505.6,
+    "bytes": 12135789,
+    "sha256": "e54fa996c14c8d2a9152ae08492d1bb9207b314b3b0c8a0e36f489e51dee1cd7"
+  },
+  {
+    "id": "qzg-jhSLaH4",
+    "category": "union",
+    "title": "Bach - Passacaglia and Fugue in C Minor, BWV 582",
+    "source_url": "https://www.youtube.com/watch?v=qzg-jhSLaH4",
+    "path": "music/union/qzg-jhSLaH4.mp3",
+    "duration_seconds": 912.37,
+    "bytes": 21898413,
+    "sha256": "be9f1faa9d48d239dd6bbc6516b86a75b96ba2bd2d192a68ceef4a5fb98af69c"
+  },
+  {
+    "id": "X7bJpzHnscE",
+    "category": "union",
+    "title": "Beethoven - Piano Concerto No. 5 \"Emperor\": II. Adagio",
+    "source_url": "https://www.youtube.com/watch?v=X7bJpzHnscE",
+    "path": "music/union/X7bJpzHnscE.mp3",
+    "duration_seconds": 487.2,
+    "bytes": 11693997,
+    "sha256": "10e28e8f00497b74d9c780c0bcc35bd51b352d06dafffc6738640408042c9ed8"
+  },
+  {
+    "id": "a53s4jyCqqU",
+    "category": "union",
+    "title": "Wagner - Siegfried's Funeral March",
+    "source_url": "https://www.youtube.com/watch?v=a53s4jyCqqU",
+    "path": "music/union/a53s4jyCqqU.mp3",
+    "duration_seconds": 498.09,
+    "bytes": 11955501,
+    "sha256": "3573124d3fd726c88a3bc637722845d89c4e80dbc8f281cb89e740f5dea0d0e7"
+  },
+  {
+    "id": "CbfUl9Pxnas",
+    "category": "union",
+    "title": "Elgar - Enigma Variations: Nimrod",
+    "source_url": "https://www.youtube.com/watch?v=CbfUl9Pxnas",
+    "path": "music/union/CbfUl9Pxnas.mp3",
+    "duration_seconds": 305.21,
+    "bytes": 7326765,
+    "sha256": "db0a46e16e7c6bc27a091f855746bf3081c95e58f860cb38284729ecbb492d71"
   }
 ]

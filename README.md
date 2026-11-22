@@ -2,7 +2,7 @@
 
 Private audio storage for the Liquidator RP server.
 
-187 tracks in 26 categories.
+235 tracks in 26 categories.
 
 Repository URLs require authentication; do not distribute credentials to clients.
 
@@ -11,22 +11,22 @@ Repository URLs require authentication; do not distribute credentials to clients
 | 팀 마이아 (Tim Maia) | 10 | [M3U8](music/tim_maia/playlist.m3u8) |
 | 시티팝 (City Pop) | 13 | [M3U8](music/city_pop/playlist.m3u8) |
 | 포가튼/미스터리 (Forgotten) | 4 | [M3U8](music/forgotten/playlist.m3u8) |
-| 올드팝 (Old Pop) | 15 | [M3U8](music/oldpop/playlist.m3u8) |
+| 올드팝 (Old Pop) | 31 | [M3U8](music/oldpop/playlist.m3u8) |
 | 두머/포스트펑크 (Doomer) | 18 | [M3U8](music/doomer/playlist.m3u8) |
-| 연합 클래식/교향곡 (Union) | 23 | [M3U8](music/union/playlist.m3u8) |
-| The Liquidator | 5 | [M3U8](music/the_liquidator/playlist.m3u8) |
+| 연합 클래식/교향곡 (Union) | 43 | [M3U8](music/union/playlist.m3u8) |
+| The Liquidator | 8 | [M3U8](music/the_liquidator/playlist.m3u8) |
 | Cruel world we live in | 8 | [M3U8](music/cruel_world/playlist.m3u8) |
 | Only You Survived | 8 | [M3U8](music/only_you_survived/playlist.m3u8) |
 | Southern rock | 1 | [M3U8](music/southern_rock/playlist.m3u8) |
-| 20's | 4 | [M3U8](music/20s/playlist.m3u8) |
+| 20's | 5 | [M3U8](music/20s/playlist.m3u8) |
 | 90's | 1 | [M3U8](music/90s/playlist.m3u8) |
-| futuredreams | 6 | [M3U8](music/futuredreams/playlist.m3u8) |
+| futuredreams | 7 | [M3U8](music/futuredreams/playlist.m3u8) |
 | Talesweaver | 4 | [M3U8](music/talesweaver/playlist.m3u8) |
 | J's light n swing | 3 | [M3U8](music/js_light_n_swing/playlist.m3u8) |
 | maxico | 1 | [M3U8](music/maxico/playlist.m3u8) |
-| Cafe | 5 | [M3U8](music/cafe/playlist.m3u8) |
+| Cafe | 7 | [M3U8](music/cafe/playlist.m3u8) |
 | 'Nam | 8 | [M3U8](music/nam/playlist.m3u8) |
-| Rebels | 6 | [M3U8](music/rebels/playlist.m3u8) |
+| Rebels | 11 | [M3U8](music/rebels/playlist.m3u8) |
 | Zhonghua | 5 | [M3U8](music/zhonghua/playlist.m3u8) |
 | Soviet | 8 | [M3U8](music/soviet/playlist.m3u8) |
 | Old world blues | 9 | [M3U8](music/old_world_blues/playlist.m3u8) |
@@ -226,3 +226,51 @@ Repository URLs require authentication; do not distribute credentials to clients
 | 연합 클래식/교향곡 (Union) | Bach (바흐) - Air On The G String (G선상의 아리아) | [qEYrpKW2yzo](music/union/qEYrpKW2yzo.mp3) |
 | 연합 클래식/교향곡 (Union) | Sir James Galway - Sicilienne | [bIfzqpPfX1Q](music/union/bIfzqpPfX1Q.mp3) |
 | 연합 클래식/교향곡 (Union) | Bach - Cello Suite No. 1 in G Major BWV1007 - Mov. 1-3/6 | [DwHpDOWhkGk](music/union/DwHpDOWhkGk.mp3) |
+| The Liquidator | Zack Hemsey - Facing Demons | [Du1QRtcnMxM](music/the_liquidator/Du1QRtcnMxM.mp3) |
+| The Liquidator | Zack Hemsey - Vengeance | [Lhv_yFMuwxs](music/the_liquidator/Lhv_yFMuwxs.mp3) |
+| The Liquidator | Radio (Entropy : Zero - Uprising OST) | [xkEj-IqMy2s](music/the_liquidator/xkEj-IqMy2s.mp3) |
+| futuredreams | Arknights - Dormant Craving | [geHKKSHzk00](music/futuredreams/geHKKSHzk00.mp3) |
+| 올드팝 (Old Pop) | Billy Joel - Piano Man | [QwVjTlTdIDQ](music/oldpop/QwVjTlTdIDQ.mp3) |
+| 올드팝 (Old Pop) | Grover Washington, Jr. - Just the Two of Us | [KYwA5k00p2I](music/oldpop/KYwA5k00p2I.mp3) |
+| 올드팝 (Old Pop) | Elton John - I'm Still Standing | [Ye9hGotPPVk](music/oldpop/Ye9hGotPPVk.mp3) |
+| 올드팝 (Old Pop) | Earth, Wind & Fire - September | [OBM0DO8Xt1c](music/oldpop/OBM0DO8Xt1c.mp3) |
+| 올드팝 (Old Pop) | Redbone - Come and Get Your Love | [rsf_gTZG4cI](music/oldpop/rsf_gTZG4cI.mp3) |
+| 올드팝 (Old Pop) | Hit the Road Jack | [SrnWp5O0DEs](music/oldpop/SrnWp5O0DEs.mp3) |
+| 올드팝 (Old Pop) | Gloria Gaynor - I Will Survive | [WnrE0yN2uLY](music/oldpop/WnrE0yN2uLY.mp3) |
+| 올드팝 (Old Pop) | Wham! - Wake Me Up Before You Go-Go | [pIgZ7gMze7A](music/oldpop/pIgZ7gMze7A.mp3) |
+| 올드팝 (Old Pop) | ABBA - Mamma Mia | [unfzfe8f9NI](music/oldpop/unfzfe8f9NI.mp3) |
+| 올드팝 (Old Pop) | Boney M. - Rasputin | [16y1AkoZkmQ](music/oldpop/16y1AkoZkmQ.mp3) |
+| 올드팝 (Old Pop) | ABBA - Gimme! Gimme! Gimme! (A Man After Midnight) | [XEjLoHdbVeE](music/oldpop/XEjLoHdbVeE.mp3) |
+| 올드팝 (Old Pop) | Eurythmics - Sweet Dreams (Are Made Of This) | [qeMFqkcPYcg](music/oldpop/qeMFqkcPYcg.mp3) |
+| 올드팝 (Old Pop) | Bee Gees - Stayin' Alive | [I_izvAbhExY](music/oldpop/I_izvAbhExY.mp3) |
+| 올드팝 (Old Pop) | Sting - Shape of My Heart | [NlwIDxCjL-8](music/oldpop/NlwIDxCjL-8.mp3) |
+| 올드팝 (Old Pop) | Neil Diamond - Sweet Caroline | [4F_RCWVoL4s](music/oldpop/4F_RCWVoL4s.mp3) |
+| 올드팝 (Old Pop) | Elvis Presley - Can't Help Falling in Love | [yiHo8LtLCGc](music/oldpop/yiHo8LtLCGc.mp3) |
+| 20's | Adele - Rolling in the Deep | [4ujBQOzs6Lw](music/20s/4ujBQOzs6Lw.mp3) |
+| Cafe | Yiruma - River Flows in You | [7maJOI3QMu0](music/cafe/7maJOI3QMu0.mp3) |
+| Cafe | Joe Hisaishi - Summer | [l0GN40EL1VU](music/cafe/l0GN40EL1VU.mp3) |
+| Rebels | Carl Orff - O Fortuna (Carmina Burana) | [GXFSK0ogeg4](music/rebels/GXFSK0ogeg4.mp3) |
+| Rebels | Verdi - Requiem: Dies Irae | [CUGMZlvrR4c](music/rebels/CUGMZlvrR4c.mp3) |
+| Rebels | Beethoven - Symphony No. 9: Ode to Joy | [uqs9a2Cxv5c](music/rebels/uqs9a2Cxv5c.mp3) |
+| Rebels | Mozart - Requiem: Lacrimosa | [gkwgZjNUDkk](music/rebels/gkwgZjNUDkk.mp3) |
+| Rebels | Mozart - Requiem: Confutatis | [ENwUp6po3M4](music/rebels/ENwUp6po3M4.mp3) |
+| 연합 클래식/교향곡 (Union) | Handel - Messiah: Hallelujah Chorus | [usfiAsWR4qU](music/union/usfiAsWR4qU.mp3) |
+| 연합 클래식/교향곡 (Union) | Mozart - Great Mass in C Minor: Kyrie | [ZV7gLWo2pO0](music/union/ZV7gLWo2pO0.mp3) |
+| 연합 클래식/교향곡 (Union) | Bach - Mass in B Minor: Kyrie eleison | [TMCpjUg411s](music/union/TMCpjUg411s.mp3) |
+| 연합 클래식/교향곡 (Union) | Vivaldi - Gloria: Gloria in excelsis Deo | [BNuukn4_v58](music/union/BNuukn4_v58.mp3) |
+| 연합 클래식/교향곡 (Union) | Mozart - Ave verum corpus | [f9dHhzTFlVU](music/union/f9dHhzTFlVU.mp3) |
+| 연합 클래식/교향곡 (Union) | Johann Strauss II - The Blue Danube | [_CTYymbbEL4](music/union/_CTYymbbEL4.mp3) |
+| 연합 클래식/교향곡 (Union) | Tchaikovsky - Sleeping Beauty Waltz | [2Sb8WCPjPDs](music/union/2Sb8WCPjPDs.mp3) |
+| 연합 클래식/교향곡 (Union) | Mozart - Eine Kleine Nachtmusik | [oy2zDJPIgwc](music/union/oy2zDJPIgwc.mp3) |
+| 연합 클래식/교향곡 (Union) | Handel - Water Music: Alla Hornpipe | [pH38vauG-BM](music/union/pH38vauG-BM.mp3) |
+| 연합 클래식/교향곡 (Union) | Elgar - Pomp and Circumstance March No. 1 | [qGIM5HdnY4g](music/union/qGIM5HdnY4g.mp3) |
+| 연합 클래식/교향곡 (Union) | Beethoven - Symphony No. 7: II. Allegretto | [vCHREyE5GzQ](music/union/vCHREyE5GzQ.mp3) |
+| 연합 클래식/교향곡 (Union) | Mozart - Symphony No. 40: I. Molto allegro | [RDAjLjvequ4](music/union/RDAjLjvequ4.mp3) |
+| 연합 클래식/교향곡 (Union) | Brahms - Symphony No. 1: I. Un poco sostenuto - Allegro | [SHK95KzvtFE](music/union/SHK95KzvtFE.mp3) |
+| 연합 클래식/교향곡 (Union) | Tchaikovsky - Symphony No. 6 "Pathetique": IV. Finale | [BZHhkv5umMA](music/union/BZHhkv5umMA.mp3) |
+| 연합 클래식/교향곡 (Union) | Rachmaninoff - Prelude in C-sharp minor, Op. 3 No. 2 | [1arWBobQ63s](music/union/1arWBobQ63s.mp3) |
+| 연합 클래식/교향곡 (Union) | Chopin - Piano Sonata No. 2: III. Marche funebre | [EetawUz3I64](music/union/EetawUz3I64.mp3) |
+| 연합 클래식/교향곡 (Union) | Bach - Passacaglia and Fugue in C Minor, BWV 582 | [qzg-jhSLaH4](music/union/qzg-jhSLaH4.mp3) |
+| 연합 클래식/교향곡 (Union) | Beethoven - Piano Concerto No. 5 "Emperor": II. Adagio | [X7bJpzHnscE](music/union/X7bJpzHnscE.mp3) |
+| 연합 클래식/교향곡 (Union) | Wagner - Siegfried's Funeral March | [a53s4jyCqqU](music/union/a53s4jyCqqU.mp3) |
+| 연합 클래식/교향곡 (Union) | Elgar - Enigma Variations: Nimrod | [CbfUl9Pxnas](music/union/CbfUl9Pxnas.mp3) |
