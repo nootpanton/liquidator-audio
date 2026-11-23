@@ -2,7 +2,7 @@
 
 Private audio storage for the Liquidator RP server.
 
-235 tracks in 26 categories.
+236 tracks in 26 categories.
 
 Repository URLs require authentication; do not distribute credentials to clients.
 
@@ -29,7 +29,7 @@ Repository URLs require authentication; do not distribute credentials to clients
 | Rebels | 11 | [M3U8](music/rebels/playlist.m3u8) |
 | Zhonghua | 5 | [M3U8](music/zhonghua/playlist.m3u8) |
 | Soviet | 8 | [M3U8](music/soviet/playlist.m3u8) |
-| Old world blues | 9 | [M3U8](music/old_world_blues/playlist.m3u8) |
+| Old world blues | 10 | [M3U8](music/old_world_blues/playlist.m3u8) |
 | Kino | 6 | [M3U8](music/kino/playlist.m3u8) |
 | Korean | 5 | [M3U8](music/korean/playlist.m3u8) |
 | rollin' hood | 7 | [M3U8](music/rollin_hood/playlist.m3u8) |
@@ -198,6 +198,7 @@ Repository URLs require authentication; do not distribute credentials to clients
 | Old world blues | Piero Piccioni - Arizona Dreaming | [_-dd8XIgQJk](music/old_world_blues/_-dd8XIgQJk.mp3) |
 | Old world blues | Бери шинель, пошли домой | [eCVm4l1WFMs](music/old_world_blues/eCVm4l1WFMs.mp3) |
 | Old world blues | Andrea Bocelli - Con Te Partirò | [nVUHHW1tJYA](music/old_world_blues/nVUHHW1tJYA.mp3) |
+| Old world blues | Renato Carosone - Tu vuo' fa' l'americano | [ARRKNB07Ixc](music/old_world_blues/ARRKNB07Ixc.mp3) |
 | Kino | Кино - Пачка сигарет | [KIYW8VxfZIA](music/kino/KIYW8VxfZIA.mp3) |
 | Kino | Кино - Кончится лето | [xznHixFfcvs](music/kino/xznHixFfcvs.mp3) |
 | Kino | Кино - Группа Крови | [ASRPFiU849g](music/kino/ASRPFiU849g.mp3) |

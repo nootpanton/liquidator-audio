@@ -2453,5 +2453,15 @@
     "duration_seconds": 305.21,
     "bytes": 7326765,
     "sha256": "db0a46e16e7c6bc27a091f855746bf3081c95e58f860cb38284729ecbb492d71"
+  },
+  {
+    "id": "ARRKNB07Ixc",
+    "category": "old_world_blues",
+    "title": "Renato Carosone - Tu vuo' fa' l'americano",
+    "source_url": "https://www.youtube.com/watch?v=ARRKNB07Ixc",
+    "path": "music/old_world_blues/ARRKNB07Ixc.mp3",
+    "duration_seconds": 210.7,
+    "bytes": 5057558,
+    "sha256": "b655ef9e9f20b1bef36a0b41c717fe4bac794aa90b2c1e407f9f6b015bdc9004"
   }
 ]
