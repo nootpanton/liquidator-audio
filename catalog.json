@@ -2463,5 +2463,35 @@
     "duration_seconds": 210.7,
     "bytes": 5057558,
     "sha256": "b655ef9e9f20b1bef36a0b41c717fe4bac794aa90b2c1e407f9f6b015bdc9004"
+  },
+  {
+    "id": "3AAOx_6jfek",
+    "category": "20s",
+    "title": "Skittish - Welcome to the Circus",
+    "source_url": "https://www.youtube.com/watch?v=3AAOx_6jfek",
+    "path": "music/20s/3AAOx_6jfek.mp3",
+    "duration_seconds": 207.71,
+    "bytes": 4986477,
+    "sha256": "cbf4aa248a0bcc6b671e525de7157bf7943b220d75d9c759c4600b4c0a261793"
+  },
+  {
+    "id": "BouRN2QuXV8",
+    "category": "20s",
+    "title": "Jagwar Twin, sir lucius - welcome to the circus",
+    "source_url": "https://www.youtube.com/watch?v=BouRN2QuXV8",
+    "path": "music/20s/BouRN2QuXV8.mp3",
+    "duration_seconds": 153.61,
+    "bytes": 3688173,
+    "sha256": "23465e34fe9e9d0db1d660c64d2214262351b16ea39e3b8cb065597057efd5c0"
+  },
+  {
+    "id": "5v-WAEvA7C4",
+    "category": "20s",
+    "title": "Shakira - Whenever, Wherever",
+    "source_url": "https://www.youtube.com/watch?v=5v-WAEvA7C4",
+    "path": "music/20s/5v-WAEvA7C4.mp3",
+    "duration_seconds": 195.34,
+    "bytes": 4689837,
+    "sha256": "6a7443aee9de689fd1bfebe451ca2479e95fb89393f31d599640bf448d057233"
   }
 ]
